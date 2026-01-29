@@ -18,12 +18,26 @@ $navbar-fg: #ffffff;
   background-color: $primary !important;
 }
 
-.navbar-brand, .nav-link {
+.navbar-brand, .navbar .nav-link {
   color: #ffffff !important;
 }
 
-.nav-link:hover {
+.navbar .nav-link:hover {
   color: #c8e6c9 !important;
+}
+
+// TOC (Table of Contents) styling
+#TOC .nav-link, .sidebar .nav-link {
+  color: #333333 !important;
+}
+
+#TOC .nav-link:hover, .sidebar .nav-link:hover {
+  color: #2e7d32 !important;
+}
+
+#TOC .nav-link.active, .sidebar .nav-link.active {
+  color: #2e7d32 !important;
+  font-weight: 600;
 }
 
 a {
