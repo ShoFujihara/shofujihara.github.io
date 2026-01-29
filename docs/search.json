@@ -67,35 +67,42 @@
     "href": "projects.html",
     "title": "Current Projects",
     "section": "",
-    "text": "2025年に実施される全国規模の社会調査。社会階層と社会移動の実態を把握し、日本社会の構造変動を明らかにすることを目的としています。\n\n2025SSM調査 公式サイト"
+    "text": "社会階層と社会移動に関する研究者のネットワーク。SSM調査の企画・実施、研究成果の共有、若手研究者の育成などを行っています。\n\n2025SSM調査 公式サイト"
   },
   {
-    "objectID": "projects.html#ssm-survey-2025年社会階層と社会移動全国調査",
-    "href": "projects.html#ssm-survey-2025年社会階層と社会移動全国調査",
+    "objectID": "projects.html#社会階層と社会移動研究会",
+    "href": "projects.html#社会階層と社会移動研究会",
     "title": "Current Projects",
     "section": "",
-    "text": "2025年に実施される全国規模の社会調査。社会階層と社会移動の実態を把握し、日本社会の構造変動を明らかにすることを目的としています。\n\n2025SSM調査 公式サイト"
+    "text": "社会階層と社会移動に関する研究者のネットワーク。SSM調査の企画・実施、研究成果の共有、若手研究者の育成などを行っています。\n\n2025SSM調査 公式サイト"
   },
   {
-    "objectID": "projects.html#panel-study-of-middle-school-students-and-mothers",
-    "href": "projects.html#panel-study-of-middle-school-students-and-mothers",
+    "objectID": "projects.html#職業の自動コーディングシステムの開発",
+    "href": "projects.html#職業の自動コーディングシステムの開発",
     "title": "Current Projects",
-    "section": "Panel Study of Middle School Students and Mothers",
-    "text": "Panel Study of Middle School Students and Mothers\n2015年から継続している縦断的パネル調査。中学生とその母親を追跡し、教育達成、職業達成、家族形成などのライフコースを研究しています。"
+    "section": "職業の自動コーディングシステムの開発",
+    "text": "職業の自動コーディングシステムの開発\n自然言語処理・機械学習を用いた職業コーディングの自動化システムを開発しています。社会調査における職業情報の標準化と効率化を目指しています。"
   },
   {
-    "objectID": "projects.html#ssjda-social-science-japan-data-archive",
-    "href": "projects.html#ssjda-social-science-japan-data-archive",
+    "objectID": "projects.html#職業的地位尺度の開発",
+    "href": "projects.html#職業的地位尺度の開発",
     "title": "Current Projects",
-    "section": "SSJDA (Social Science Japan Data Archive)",
-    "text": "SSJDA (Social Science Japan Data Archive)\n社会科学データアーカイブの運営に携わり、日本の社会科学研究におけるデータ共有・二次分析の推進に貢献しています。"
+    "section": "職業的地位尺度の開発",
+    "text": "職業的地位尺度の開発\n日本社会に適した職業的地位尺度（Occupational Status Scale）の開発・更新を行っています。\n\nFujihara, S. & Ishida, H. (2020). An objective occupational status scale for contemporary Japan. European Sociological Review, 36(4), 579-593. DOI: 10.1093/esr/jcaa005"
   },
   {
-    "objectID": "projects.html#r-packages-tools",
-    "href": "projects.html#r-packages-tools",
+    "objectID": "projects.html#格差解消のための介入についての研究",
+    "href": "projects.html#格差解消のための介入についての研究",
     "title": "Current Projects",
-    "section": "R Packages & Tools",
-    "text": "R Packages & Tools\n\nAssociation Models\nカテゴリカルデータの連関モデル分析のためのRパッケージとチュートリアル。\n\nAssociation Models Japanese - 『カテゴリカルデータの連関モデル』サポートページ\n\n\n\nGitHub Repositories\n\nGitHub: ShoFujihara - コード、データ、分析スクリプトを公開"
+    "section": "格差解消のための介入についての研究",
+    "text": "格差解消のための介入についての研究\n教育格差・社会経済的格差の解消に向けた介入研究。因果推論の手法を用いて、どのような介入が格差解消に効果的かを検証しています。"
+  },
+  {
+    "objectID": "projects.html#other-projects",
+    "href": "projects.html#other-projects",
+    "title": "Current Projects",
+    "section": "Other Projects",
+    "text": "Other Projects\n\nPanel Study of Middle School Students and Mothers\n2015年から継続している縦断的パネル調査。中学生とその母親を追跡し、教育達成、職業達成、家族形成などのライフコースを研究しています。\n\n\nSSJDA (Social Science Japan Data Archive)\n社会科学データアーカイブの運営に携わり、日本の社会科学研究におけるデータ共有・二次分析の推進に貢献しています。\n\n\nSSJDA Panel\nSSJDAが実施するパネル調査プロジェクト。\n\n\nR Packages & Tools\n\nAssociation Models Japanese - 『カテゴリカルデータの連関モデル』サポートページ\nGitHub: ShoFujihara - コード、データ、分析スクリプトを公開"
   },
   {
     "objectID": "research.html",

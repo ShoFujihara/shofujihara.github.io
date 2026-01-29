@@ -2,28 +2,43 @@
 title: "Current Projects"
 ---
 
-## 2025 SSM Survey (2025年社会階層と社会移動全国調査)
+## 社会階層と社会移動研究会
 
-2025年に実施される全国規模の社会調査。社会階層と社会移動の実態を把握し、日本社会の構造変動を明らかにすることを目的としています。
+社会階層と社会移動に関する研究者のネットワーク。SSM調査の企画・実施、研究成果の共有、若手研究者の育成などを行っています。
 
 - [2025SSM調査 公式サイト](https://www.2025ssm.com/)
 
-## Panel Study of Middle School Students and Mothers
+## 職業の自動コーディングシステムの開発
+
+自然言語処理・機械学習を用いた職業コーディングの自動化システムを開発しています。社会調査における職業情報の標準化と効率化を目指しています。
+
+## 職業的地位尺度の開発
+
+日本社会に適した職業的地位尺度（Occupational Status Scale）の開発・更新を行っています。
+
+- Fujihara, S. & Ishida, H. (2020). An objective occupational status scale for contemporary Japan. *European Sociological Review*, 36(4), 579-593. [DOI: 10.1093/esr/jcaa005](https://doi.org/10.1093/esr/jcaa005)
+
+## 格差解消のための介入についての研究
+
+教育格差・社会経済的格差の解消に向けた介入研究。因果推論の手法を用いて、どのような介入が格差解消に効果的かを検証しています。
+
+---
+
+## Other Projects
+
+### Panel Study of Middle School Students and Mothers
 
 2015年から継続している縦断的パネル調査。中学生とその母親を追跡し、教育達成、職業達成、家族形成などのライフコースを研究しています。
 
-## SSJDA (Social Science Japan Data Archive)
+### SSJDA (Social Science Japan Data Archive)
 
-[社会科学データアーカイブ](https://csrda.iss.u-tokyo.ac.jp/english/)の運営に携わり、日本の社会科学研究におけるデータ共有・二次分析の推進に貢献しています。
+[社会科学データアーカイブ](https://csrda.iss.u-tokyo.ac.jp/)の運営に携わり、日本の社会科学研究におけるデータ共有・二次分析の推進に貢献しています。
 
-## R Packages & Tools
+### SSJDA Panel
 
-### Association Models
+SSJDAが実施するパネル調査プロジェクト。
 
-カテゴリカルデータの連関モデル分析のためのRパッケージとチュートリアル。
+### R Packages & Tools
 
 - [Association Models Japanese](https://shofujihara.github.io/Association_Models_Japanese/) - 『カテゴリカルデータの連関モデル』サポートページ
-
-### GitHub Repositories
-
 - [GitHub: ShoFujihara](https://github.com/ShoFujihara) - コード、データ、分析スクリプトを公開
