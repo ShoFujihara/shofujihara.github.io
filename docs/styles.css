@@ -1,0 +1,32 @@
+/* Custom styles for academic website */
+
+/* Improve table readability */
+table {
+  font-size: 0.95rem;
+}
+
+table th {
+  background-color: #f8f9fa;
+}
+
+/* About page styling */
+.about-link-text {
+  font-size: 0.9rem;
+}
+
+/* Better spacing for lists */
+ul li, ol li {
+  margin-bottom: 0.3rem;
+}
+
+/* Section headers */
+h2 {
+  border-bottom: 1px solid #dee2e6;
+  padding-bottom: 0.5rem;
+  margin-top: 2rem;
+}
+
+/* Footer styling */
+.nav-footer {
+  font-size: 0.85rem;
+}

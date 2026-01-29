@@ -1,0 +1,39 @@
+/*-- scss:defaults --*/
+
+// Dark green color scheme
+$primary: #2e7d32;
+$secondary: #4caf50;
+$success: #388e3c;
+$info: #1b5e20;
+$link-color: #2e7d32;
+
+// Navbar styling
+$navbar-bg: #2e7d32;
+$navbar-fg: #ffffff;
+
+/*-- scss:rules --*/
+
+// Additional custom styles
+.navbar {
+  background-color: $primary !important;
+}
+
+.navbar-brand, .nav-link {
+  color: #ffffff !important;
+}
+
+.nav-link:hover {
+  color: #c8e6c9 !important;
+}
+
+a {
+  color: $primary;
+}
+
+a:hover {
+  color: darken($primary, 10%);
+}
+
+h1, h2, h3 {
+  color: #1b5e20;
+}

@@ -1,0 +1,51 @@
+---
+title: "Sho Fujihara"
+subtitle: "藤原 翔"
+about:
+  template: trestles
+  image: profile.jpg
+  image-width: 200px
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:sho.fujihara@iss.u-tokyo.ac.jp
+    - icon: github
+      text: GitHub
+      href: https://github.com/ShoFujihara
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.co.jp/citations?user=G8ZmzesAAAAJ
+    - text: ORCID
+      href: https://orcid.org/0000-0002-7007-1934
+    - text: researchmap
+      href: https://researchmap.jp/shofujihara
+    - icon: building
+      text: 東京大学社会科学研究所
+      href: https://www.iss.u-tokyo.ac.jp/
+    - icon: database
+      text: CSRDA
+      href: https://csrda.iss.u-tokyo.ac.jp/
+---
+
+## About
+
+I am a Professor at the [Institute of Social Science](https://www.iss.u-tokyo.ac.jp/), University of Tokyo. My research focuses on social stratification, educational inequality, and quantitative sociology.
+
+## Current Position
+
+**Professor** (2025年4月～)
+[Center for Social Research and Data Archives](https://csrda.iss.u-tokyo.ac.jp/)
+[Institute of Social Science, The University of Tokyo](https://www.iss.u-tokyo.ac.jp/)
+
+## Research Interests
+
+- Social stratification and mobility
+- Educational inequality
+- Quantitative methods
+- Social survey methodology
+
+## Contact
+
+Institute of Social Science, University of Tokyo
+7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan
+Email: sho.fujihara [at] iss.u-tokyo.ac.jp

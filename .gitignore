@@ -1,0 +1,18 @@
+# Quarto
+/.quarto/
+**/*.quarto_ipynb
+
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# macOS
+.DS_Store
+
+# Backup files
+*.bak
+
+# Old site files
+_site/

@@ -1,0 +1,93 @@
+---
+title: "Research"
+---
+
+## Research Interests
+
+My research focuses on understanding social stratification and inequality in contemporary Japanese society through quantitative analysis of survey data.
+
+### Main Topics
+
+- **Social stratification and mobility**: Examining patterns of intergenerational mobility and the mechanisms that reproduce social inequality
+- **Educational inequality**: Understanding how family background affects educational attainment and the role of schools in mediating inequality
+- **Quantitative methodology**: Developing and applying advanced statistical methods for social research
+- **Social surveys**: Design and analysis of large-scale social surveys
+
+## Current Projects
+
+### 2025 SSM Survey (2025年社会階層と社会移動全国調査)
+
+A nationwide survey examining social stratification and mobility in Japan.
+
+### Panel Study of Middle School Students and Mothers
+
+A longitudinal panel study tracking middle school students and their mothers since 2015, examining life outcomes across socioeconomic dimensions.
+
+## Books
+
+### 翻訳書
+
+**『カテゴリカルデータの連関モデル』**
+Raymond Wong 著・藤原翔 訳
+共立出版「計量分析One Point」シリーズ、2023年
+
+Rを用いた連関モデルの分析方法を解説。サポートページでは各章のRコード、正誤表、先行研究の再現分析を公開しています。
+
+📖 [サポートページ](https://shofujihara.github.io/Association_Models_Japanese/)
+
+## Peer-Reviewed Articles
+
+### 2024
+
+- Fujihara, S. (2024). Identifying the role of high school in educational inequality: A causal mediation approach. *Social Science Research*, 124, 103077. [DOI: 10.1016/j.ssresearch.2024.103077](https://doi.org/10.1016/j.ssresearch.2024.103077)
+
+- Fujihara, S. & Ishida, H. (2024). College Is Not the Great Equalizer in Japan. *Socius: Sociological Research for a Dynamic World*, 10. [DOI: 10.1177/23780231241227062](https://doi.org/10.1177/23780231241227062)
+
+- Fujihara, S. (2024). Educational assortative mating in Japan: Insights into social change and stratification. *Japanese Journal of Sociology*, 33(1), 23-42. [DOI: 10.1111/ijjs.12170](https://doi.org/10.1111/ijjs.12170)
+
+### 2023
+
+- Fujihara, S. (2023). Explaining class differences in educational attainment in Japan: An empirical test of the Breen and Goldthorpe model. *Research in Social Stratification and Mobility*, 83, 100770. [DOI: 10.1016/j.rssm.2023.100770](https://doi.org/10.1016/j.rssm.2023.100770)
+
+### 2022
+
+- Entrich, S. R. & Fujihara, S. (2022). New horizontal inequalities in Japanese education? Examining socioeconomic selectivity in pre-college study abroad intent and participation. *Research in Social Stratification and Mobility*, 81, 100727. [DOI: 10.1016/j.rssm.2022.100727](https://doi.org/10.1016/j.rssm.2022.100727)
+
+- Tabuchi, T., Fujihara, S., Iso, H., & Miyawaki, A. (2022). COVID-19 pandemic and changes in mental health symptoms: A nationwide survey in Japan. *Journal of Affective Disorders*, 306, 287-293. [DOI: 10.1016/j.jad.2022.03.045](https://doi.org/10.1016/j.jad.2022.03.045)
+
+### 2020
+
+- Fujihara, S. & Ishida, H. (2020). An objective occupational status scale for contemporary Japan: Construction using the 2015 SSM survey data. *European Sociological Review*, 36(4), 579-593. [DOI: 10.1093/esr/jcaa005](https://doi.org/10.1093/esr/jcaa005)
+
+### 2018
+
+- Tabuchi, T., Fujihara, S., Shinozaki, T., & Fukuhara, H. (2018). Determinants of high-school dropout: A longitudinal study in a deprived area of Japan. *Journal of Epidemiology*, 28(11), 458-464. [DOI: 10.2188/jea.JE20170163](https://doi.org/10.2188/jea.JE20170163)
+
+- Fujihara, S., Kikkawa, T., & Schooler, C. (2018). Work made us what we are: Complexity of work, self-directedness of orientation, and intellectual flexibility. *Research in Social Stratification and Mobility*, 54, 36-45. [DOI: 10.1016/j.rssm.2018.02.002](https://doi.org/10.1016/j.rssm.2018.02.002)
+
+### 2016
+
+- Fujihara, S. & Ishida, H. (2016). The absolute and relative values of education and the inequality of educational opportunity: Trends in access to education in postwar Japan. *Research in Social Stratification and Mobility*, 43, 25-37. [DOI: 10.1016/j.rssm.2016.03.001](https://doi.org/10.1016/j.rssm.2016.03.001)
+
+### 2012
+
+- Kikkawa, T. & Fujihara, S. (2012). Class Awareness in Japan and the U.S.: Expansion and Stability. *Sociological Theory and Methods*, 27(2), 205-224. [DOI: 10.11218/ojjams.27.205](https://doi.org/10.11218/ojjams.27.205)
+
+- 藤原翔 (2012). きょうだい構成と地位達成. *ソシオロジ*, 57(1), 41-57. [DOI: 10.14959/soshioroji.57.1_41](https://doi.org/10.14959/soshioroji.57.1_41)
+
+- 藤原翔 (2012). 高校選択における相対的リスク回避仮説と学歴下降回避仮説の検証. *教育社会学研究*, 91, 29-49. [DOI: 10.11151/eds.91.29](https://doi.org/10.11151/eds.91.29)
+
+### 2011
+
+- 藤原翔 (2011). Breen and Goldthorpeの相対的リスク回避仮説の検証. *社会学評論*, 62(1), 18-35. [DOI: 10.4057/jsr.62.18](https://doi.org/10.4057/jsr.62.18)
+
+### 2009
+
+- 藤原翔 (2009). 現代高校生と母親の教育期待: 母親の教育達成、社会階層、進路多様化. *理論と方法*, 24(2), 283-299. [DOI: 10.11218/ojjams.24.283](https://doi.org/10.11218/ojjams.24.283)
+
+## Links
+
+- [Google Scholar](https://scholar.google.co.jp/citations?user=G8ZmzesAAAAJ)
+- [researchmap](https://researchmap.jp/shofujihara)
+- [ORCID](https://orcid.org/0000-0002-7007-1934)
+- [KAKEN](https://nrid.nii.ac.jp/ja/nrid/1000060609676/)

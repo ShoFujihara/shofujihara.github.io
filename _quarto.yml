@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sho Fujihara"
+  description: "Professor, Institute of Social Science, University of Tokyo"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: CV
+      - href: research.qmd
+        text: Research
+    right:
+      - icon: github
+        href: https://github.com/ShoFujihara
+      - icon: google
+        href: https://scholar.google.co.jp/citations?user=G8ZmzesAAAAJ
+      - icon: envelope
+        href: mailto:sho.fujihara@iss.u-tokyo.ac.jp
+  page-footer:
+    center: |
+      &copy; 2025 Sho Fujihara
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: true
+    toc-depth: 2
