@@ -13,16 +13,6 @@ My research focuses on understanding social stratification and inequality in con
 - **Quantitative methodology**: Developing and applying advanced statistical methods for social research
 - **Social surveys**: Design and analysis of large-scale social surveys
 
-## Current Projects
-
-### 2025 SSM Survey (2025年社会階層と社会移動全国調査)
-
-A nationwide survey examining social stratification and mobility in Japan.
-
-### Panel Study of Middle School Students and Mothers
-
-A longitudinal panel study tracking middle school students and their mothers since 2015, examining life outcomes across socioeconomic dimensions.
-
 ## Books
 
 ### 翻訳書
@@ -56,6 +46,8 @@ Rを用いた連関モデルの分析方法を解説。サポートページで�
 - Tabuchi, T., Fujihara, S., Iso, H., & Miyawaki, A. (2022). COVID-19 pandemic and changes in mental health symptoms: A nationwide survey in Japan. *Journal of Affective Disorders*, 306, 287-293. [DOI: 10.1016/j.jad.2022.03.045](https://doi.org/10.1016/j.jad.2022.03.045)
 
 ### 2020
+
+- Fujihara, S. (2020). Socio-Economic Standing and Social Status in Contemporary Japan: Scale Constructions and Their Applications. *European Sociological Review*, 36(4), 548-561. [DOI: 10.1093/esr/jcaa010](https://doi.org/10.1093/esr/jcaa010)
 
 - Fujihara, S. & Ishida, H. (2020). An objective occupational status scale for contemporary Japan: Construction using the 2015 SSM survey data. *European Sociological Review*, 36(4), 579-593. [DOI: 10.1093/esr/jcaa005](https://doi.org/10.1093/esr/jcaa005)
 
