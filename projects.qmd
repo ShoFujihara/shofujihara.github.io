@@ -1,0 +1,29 @@
+---
+title: "Current Projects"
+---
+
+## 2025 SSM Survey (2025年社会階層と社会移動全国調査)
+
+2025年に実施される全国規模の社会調査。社会階層と社会移動の実態を把握し、日本社会の構造変動を明らかにすることを目的としています。
+
+- [2025SSM調査 公式サイト](https://www.2025ssm.com/)
+
+## Panel Study of Middle School Students and Mothers
+
+2015年から継続している縦断的パネル調査。中学生とその母親を追跡し、教育達成、職業達成、家族形成などのライフコースを研究しています。
+
+## SSJDA (Social Science Japan Data Archive)
+
+[社会科学データアーカイブ](https://csrda.iss.u-tokyo.ac.jp/english/)の運営に携わり、日本の社会科学研究におけるデータ共有・二次分析の推進に貢献しています。
+
+## R Packages & Tools
+
+### Association Models
+
+カテゴリカルデータの連関モデル分析のためのRパッケージとチュートリアル。
+
+- [Association Models Japanese](https://shofujihara.github.io/Association_Models_Japanese/) - 『カテゴリカルデータの連関モデル』サポートページ
+
+### GitHub Repositories
+
+- [GitHub: ShoFujihara](https://github.com/ShoFujihara) - コード、データ、分析スクリプトを公開

@@ -63,6 +63,41 @@
     "text": "Identifiers\n\nResearcher Number (KAKEN): 60609676\nORCID: 0000-0002-7007-1934\nJ-GLOBAL ID: 201201074861045886"
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Current Projects",
+    "section": "",
+    "text": "2025年に実施される全国規模の社会調査。社会階層と社会移動の実態を把握し、日本社会の構造変動を明らかにすることを目的としています。\n\n2025SSM調査 公式サイト"
+  },
+  {
+    "objectID": "projects.html#ssm-survey-2025年社会階層と社会移動全国調査",
+    "href": "projects.html#ssm-survey-2025年社会階層と社会移動全国調査",
+    "title": "Current Projects",
+    "section": "",
+    "text": "2025年に実施される全国規模の社会調査。社会階層と社会移動の実態を把握し、日本社会の構造変動を明らかにすることを目的としています。\n\n2025SSM調査 公式サイト"
+  },
+  {
+    "objectID": "projects.html#panel-study-of-middle-school-students-and-mothers",
+    "href": "projects.html#panel-study-of-middle-school-students-and-mothers",
+    "title": "Current Projects",
+    "section": "Panel Study of Middle School Students and Mothers",
+    "text": "Panel Study of Middle School Students and Mothers\n2015年から継続している縦断的パネル調査。中学生とその母親を追跡し、教育達成、職業達成、家族形成などのライフコースを研究しています。"
+  },
+  {
+    "objectID": "projects.html#ssjda-social-science-japan-data-archive",
+    "href": "projects.html#ssjda-social-science-japan-data-archive",
+    "title": "Current Projects",
+    "section": "SSJDA (Social Science Japan Data Archive)",
+    "text": "SSJDA (Social Science Japan Data Archive)\n社会科学データアーカイブの運営に携わり、日本の社会科学研究におけるデータ共有・二次分析の推進に貢献しています。"
+  },
+  {
+    "objectID": "projects.html#r-packages-tools",
+    "href": "projects.html#r-packages-tools",
+    "title": "Current Projects",
+    "section": "R Packages & Tools",
+    "text": "R Packages & Tools\n\nAssociation Models\nカテゴリカルデータの連関モデル分析のためのRパッケージとチュートリアル。\n\nAssociation Models Japanese - 『カテゴリカルデータの連関モデル』サポートページ\n\n\n\nGitHub Repositories\n\nGitHub: ShoFujihara - コード、データ、分析スクリプトを公開"
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
