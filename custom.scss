@@ -51,3 +51,12 @@ a:hover {
 h1, h2, h3 {
   color: #1b5e20;
 }
+
+// Dimensions badge - smaller size
+.__dimensions_badge_embed__ {
+  transform: scale(0.7);
+  transform-origin: left center;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 4px;
+}
