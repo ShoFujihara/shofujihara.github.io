@@ -29,11 +29,11 @@ title: "Current Projects"
 
 ### SEI・SSIの分布
 
-![SEI・SSIの概要](https://raw.githubusercontent.com/ShoFujihara/OccupationalScales/main/figures/sei_ssi_overview.svg){width=80%}
+![SEI・SSIの概要](https://raw.githubusercontent.com/ShoFujihara/OccupationalScales/master/figures/sei_ssi_overview.svg){width=80%}
 
 ### 男女別SEIの比較
 
-![男女別SEIの比較](https://raw.githubusercontent.com/ShoFujihara/OccupationalScales/main/figures/msei_fsei_comparison.svg){width=80%}
+![男女別SEIの比較](https://raw.githubusercontent.com/ShoFujihara/OccupationalScales/master/figures/msei_fsei_comparison.svg){width=80%}
 
 ## 格差解消のための介入についての研究
 
