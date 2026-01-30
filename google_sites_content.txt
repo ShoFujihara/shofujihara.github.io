@@ -1,0 +1,272 @@
+================================================================================
+Google Sites用コンテンツ
+================================================================================
+
+【ページ1: ホーム (Home)】
+================================================================================
+
+Sho Fujihara / 藤原 翔
+
+About
+-----
+I am a Professor at the Institute of Social Science, University of Tokyo. My research focuses on social stratification, educational inequality, and quantitative sociology.
+
+Current Position
+----------------
+Professor (2025年4月～)
+Center for Social Research and Data Archives
+Institute of Social Science, The University of Tokyo
+
+Research Interests
+------------------
+• Social stratification and mobility
+• Educational inequality
+• Quantitative methods
+• Social survey methodology
+
+Contact
+-------
+Institute of Social Science, University of Tokyo
+7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan
+Email: sho.fujihara [at] iss.u-tokyo.ac.jp
+
+Links
+-----
+• Email: sho.fujihara@iss.u-tokyo.ac.jp
+• GitHub: https://github.com/ShoFujihara
+• Google Scholar: https://scholar.google.co.jp/citations?user=G8ZmzesAAAAJ
+• ORCID: https://orcid.org/0000-0002-7007-1934
+• researchmap: https://researchmap.jp/shofujihara
+• 東京大学社会科学研究所: https://www.iss.u-tokyo.ac.jp/
+• CSRDA: https://csrda.iss.u-tokyo.ac.jp/
+
+
+【ページ2: CV (Curriculum Vitae)】
+================================================================================
+
+Education
+---------
+| Year | Degree | Institution |
+| 2010 | Ph.D. (Human Sciences) | Osaka University |
+| 2007 | M.A. (Human Sciences) | Osaka University |
+| 2005 | B.A. (Human Sciences) | Osaka University |
+
+Employment
+----------
+| Period | Position | Institution |
+| 2025.4– | Professor | Institute of Social Science, University of Tokyo |
+| 2016.4–2025.3 | Associate Professor | Institute of Social Science, University of Tokyo |
+| 2013.4–2016.3 | Associate Professor | Institute of Social Science, University of Tokyo |
+| 2011.4–2013.3 | Assistant Professor | Graduate School of Human Sciences, Osaka University |
+| 2010.4–2011.3 | JSPS Research Fellow (PD) | |
+| 2010.3–2011.3 | Postdoctoral Fellow | Center for Research on Inequalities and the Life Course, Yale University |
+| 2009.4–2010.3 | JSPS Research Fellow (DC2) | |
+
+Awards
+------
+| Year | Award |
+| 2021.11 | 優秀研究活動賞 (社会調査協会) |
+| 2021.3 | オンライン授業・ハイブリッド授業のグッドプラクティス 総長表彰 |
+| 2016.11 | 『社会と調査』賞 (社会調査協会) |
+| 2012.5 | 関西社会学会大会奨励賞 |
+| 2011.5 | 関西社会学会大会奨励賞 |
+| 2007.3 | 大阪大学大学院人間科学研究科賞 |
+
+Selected Publications
+---------------------
+• Fujihara, S. (2024). Identifying the role of high school in educational inequality: A causal mediation approach. Social Science Research, 124.
+• Fujihara, S. & Ishida, H. (2024). College Is Not the Great Equalizer in Japan. Socius: Sociological Research for a Dynamic World.
+• Fujihara, S. (2023). Explaining class differences in educational attainment in Japan. Research in Social Stratification and Mobility, 83.
+• Fujihara, S. (2020). Socio-Economic Standing and Social Status in Contemporary Japan. European Sociological Review, 36(4).
+
+Professional Service - Committee Memberships
+--------------------------------------------
+International Sociological Association, RC28 Social Stratification
+• 2023.7– Board Member
+
+日本教育社会学会
+• 2019.10–2023.9 紀要編集委員
+• 2018 理事選挙管理委員会委員
+• 2015.10–2017.9 研究委員・副委員長
+• 2013.10–2015.9 研究委員
+
+数理社会学会
+• 2023.4–2025.3 編集委員会
+• 2015.4–2017.3 監事
+• 2013.4–2015.3 研究活動委員
+• 2012.4–2013.3 選挙管理委員
+
+日本社会学会
+• 2018.12– 財務委員
+• 2018.12– 社会学評論編集委員会専門委員
+
+Referee
+-------
+社会学評論, 理論と方法, 社会と調査, Journal of Epidemiology, Asia Pacific Journal of Education, International Journal of Japanese Sociology, Research in Social Stratification and Mobility, SAGE Open, American Journal of Sociology, Social Science Japan Journal, 教育社会学研究, Demographic Research, Socio-Economic Planning Sciences, Social Science Research
+
+Memberships
+-----------
+• 日本教育社会学会 (2005年～)
+• 数理社会学会 (2008年～)
+• 日本社会学会 (2008年～)
+• American Sociological Association (2008年～)
+• 関西社会学会 (2010年～)
+• International Sociological Association, RC28 Social Stratification (2012年～)
+• Population Association of America (2018年～)
+
+Qualifications
+--------------
+• 社会調査士（第005229, 2009年6月1日）
+• 専門社会調査士（第A-000103, 2009年6月1日）
+
+Identifiers
+-----------
+• Researcher Number (KAKEN): 60609676
+• ORCID: https://orcid.org/0000-0002-7007-1934
+• J-GLOBAL ID: 201201074861045886
+
+
+【ページ3: Research】
+================================================================================
+
+Research Interests
+------------------
+My research focuses on understanding social stratification and inequality in contemporary Japanese society through quantitative analysis of survey data.
+
+Main Topics
+-----------
+• Social stratification and mobility: Examining patterns of intergenerational mobility and the mechanisms that reproduce social inequality
+• Educational inequality: Understanding how family background affects educational attainment and the role of schools in mediating inequality
+• Quantitative methodology: Developing and applying advanced statistical methods for social research
+• Social surveys: Design and analysis of large-scale social surveys
+
+Books - 共編著
+--------------
+1. 石田浩・有田伸・藤原翔編 (2020).『人生の歩みを追跡する：東大社研パネル調査でみる現代日本社会』勁草書房.
+2. 数理社会学会監修，筒井淳也・神林博史・長松奈美江・渡邉大輔・藤原翔編 (2015).『計量社会学入門：社会をデータでよむ』世界思想社.
+3. 中澤渉・藤原翔編 (2015).『格差社会の中の高校生：家族・学校・進路選択』勁草書房.
+
+Books - 訳書
+------------
+藤原翔訳 (2023).『カテゴリカルデータの連関モデル』共立出版.（原著：Wong, Raymond Sin-Kwok. 2010. Association Models. Sage.）
+
+Rを用いた連関モデルの分析方法を解説。サポートページでは各章のRコード、正誤表、先行研究の再現分析を公開しています。
+サポートページ: https://shofujihara.github.io/Association_Models_Japanese/
+
+Peer-Reviewed Articles - English Journals
+-----------------------------------------
+1. Fujihara, S. (2024). Identifying the Role of High School in Educational Inequality: A Causal Mediation Approach. Social Science Research, 124C, 103077.
+   DOI: https://doi.org/10.1016/j.ssresearch.2024.103077
+
+2. Fujihara, S. & Ishida, H. (2024). College Is Not the Great Equalizer in Japan. Socius: Sociological Research for a Dynamic World, 10.
+   DOI: https://doi.org/10.1177/23780231231225558
+
+3. Fujihara, S. (2023). Explaining Class Differences in Educational Attainment in Japan: An Empirical Test of the Breen and Goldthorpe Model. Research in Social Stratification and Mobility, 83, 100770.
+   DOI: https://doi.org/10.1016/j.rssm.2023.100770
+
+4. Entrich, S. R. & Fujihara, S. (2022). New Horizontal Inequalities in Japanese Education? Examining Socioeconomic Selectivity in Pre-College Study Abroad Intent and Participation. Research in Social Stratification and Mobility, 81, 100727.
+   DOI: https://doi.org/10.1016/j.rssm.2022.100727
+
+5. Fujihara, S. & Tabuchi, T. (2022). The Impact of COVID-19 on the Psychological Distress of Youths in Japan: A Latent Growth Curve Analysis. Journal of Affective Disorders, 305, 19-27.
+   DOI: https://doi.org/10.1016/j.jad.2022.02.055
+
+6. Fujihara, S. (2020). Socio-Economic Standing and Social Status in Contemporary Japan: Scale Constructions and Their Applications. European Sociological Review, 36(4), 548-561.
+   DOI: https://doi.org/10.1093/esr/jcaa010
+
+7. Fujihara, S. & Uchikoshi, F. (2019). Declining Association with Persistent Gender Asymmetric Structure: Patterns and Trends in Educational Assortative Marriage in Japan, 1950–1979. Research in Social Stratification and Mobility, 60, 66-77.
+   DOI: https://doi.org/10.1016/j.rssm.2018.12.001
+
+8. Tabuchi, T., Fujihara, S., Shinozaki, T., & Fukuhara, H. (2018). Determinants of High-School Dropout: A Longitudinal Study in a Deprived Area of Japan. Journal of Epidemiology, 28(11), 458-464.
+   DOI: https://doi.org/10.2188/jea.JE20170163
+
+9. Fujihara, S., Kikkawa, T., & Schooler, C. (2018). Work Made Us What We Are: Complexity of Work, Self-directedness of Orientation, and Intellectual Flexibility of Older US and Japanese Men. Research in Social Stratification and Mobility, 54, 36-45.
+   DOI: https://doi.org/10.1016/j.rssm.2018.01.002
+
+10. Fujihara, S. & Ishida, H. (2016). The Absolute and Relative Values of Education and the Inequality of Educational Opportunity: Trends in Access to Education in Postwar Japan. Research in Social Stratification and Mobility, 43, 25-37.
+    DOI: https://doi.org/10.1016/j.rssm.2016.03.001
+
+Peer-Reviewed Articles - Japanese Journals
+------------------------------------------
+1. 大野志郎・朝永昌孝・木村治生・藤原翔・松本留奈・福本優美子 (2025). 親子ダイアド縦断研究におけるウェブ調査へのモード変更とその影響. 社会と調査.
+
+2. Kikkawa, T. & Fujihara, S. (2012). Class Awareness in Japan and the U.S.: Expansion and Stability. Sociological Theory and Methods, 27(2), 205-224.
+   DOI: https://doi.org/10.11218/ojjams.27.205
+
+3. 藤原翔 (2012). きょうだい構成と地位達成：きょうだいデータに対するマルチレベル分析による検討. ソシオロジ, 174, 41-57.
+   DOI: https://doi.org/10.14959/soshioroji.57.1_41
+
+4. 藤原翔 (2012). 高校選択における相対的リスク回避仮説と学歴下降回避仮説の検証. 教育社会学研究, 91, 29-49.
+   DOI: https://doi.org/10.11151/eds.91.29
+
+5. 藤原翔 (2011). Breen and Goldthorpeの相対的リスク回避仮説の検証：父親の子どもに対する職業・教育期待を用いた計量分析. 社会学評論, 62(1), 18-35.
+   DOI: https://doi.org/10.4057/jsr.62.18
+
+6. 藤原翔 (2009). 現代高校生と母親の教育期待：相互依存モデルを用いた親子同時分析. 理論と方法, 24(2), 283-299.
+   DOI: https://doi.org/10.11218/ojjams.24.283
+
+Links
+-----
+• Google Scholar: https://scholar.google.co.jp/citations?user=G8ZmzesAAAAJ
+• researchmap: https://researchmap.jp/shofujihara
+• ORCID: https://orcid.org/0000-0002-7007-1934
+• KAKEN: https://nrid.nii.ac.jp/ja/nrid/1000060609676/
+
+
+【ページ4: Projects】
+================================================================================
+
+社会階層と社会移動研究会
+------------------------
+社会階層と社会移動に関する研究者のネットワーク。SSM調査の企画・実施、研究成果の共有、若手研究者の育成などを行っています。
+• 2025SSM調査 公式サイト: https://ssm2025.jp/
+
+職業の自動コーディングシステムの開発
+------------------------------------
+自然言語処理・機械学習を用いた職業コーディングの自動化システムを開発しています。社会調査における職業情報の標準化と効率化を目指しています。
+
+職業的地位尺度の開発
+--------------------
+日本社会に適した職業的地位尺度（Occupational Status Scale）の開発・更新を行っています。
+
+• Fujihara, S. (2020). Socio-Economic Standing and Social Status in Contemporary Japan: Scale Constructions and Their Applications. European Sociological Review, 36(4), 548-561.
+  DOI: https://doi.org/10.1093/esr/jcaa010
+
+• GitHub: OccupationalScales: https://github.com/ShoFujihara/OccupationalScales
+
+社会経済的地位指標（SEI）と社会的地位指標（SSI）のデータとRスクリプトを公開しています。
+• JESS（就業構造基本調査）・SSM調査に対応したデータ（CSV・Stata形式）
+• 性別ごとのSEI、学歴・収入に基づく指標
+• Rによる分析スクリプト（analysis.R, match_example.R）
+• 日本の職業分類対応表
+
+格差解消のための介入についての研究
+----------------------------------
+教育格差・社会経済的格差の解消に向けた介入研究。因果推論の手法を用いて、どのような介入が格差解消に効果的かを検証しています。
+
+---
+
+Other Projects
+--------------
+
+Panel Study of Middle School Students and Mothers
+2015年から継続している縦断的パネル調査。中学生とその母親を追跡し、教育達成、職業達成、家族形成などのライフコースを研究しています。
+
+子どもの生活と学びに関する親子調査
+ベネッセ教育総合研究所と東京大学社会科学研究所の共同研究プロジェクト。子どもの学びと成長を長期的に追跡しています。
+• 子どもの生活と学び研究プロジェクト: https://benesse.jp/berd/special/childedu/
+
+SSJDA (Social Science Japan Data Archive)
+社会科学データアーカイブの運営に携わり、日本の社会科学研究におけるデータ共有・二次分析の推進に貢献しています。
+• https://csrda.iss.u-tokyo.ac.jp/
+
+SSJDA Panel
+SSJDAが実施するパネル調査プロジェクト。
+
+二次分析の入門
+社会調査データの二次分析に関する入門教材・チュートリアルの作成。SSJDAのデータを活用した実践的な分析方法を解説しています。
+
+R Packages & Tools
+• Association Models Japanese: https://shofujihara.github.io/Association_Models_Japanese/ - 『カテゴリカルデータの連関モデル』サポートページ
+• GitHub: ShoFujihara: https://github.com/ShoFujihara - コード、データ、分析スクリプトを公開
+
+================================================================================
