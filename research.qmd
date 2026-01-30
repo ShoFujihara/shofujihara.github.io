@@ -33,8 +33,6 @@ Rを用いた連関モデルの分析方法を解説。サポートページで�
 
 - Fujihara, S. & Ishida, H. (2024). College Is Not the Great Equalizer in Japan. *Socius: Sociological Research for a Dynamic World*, 10. [DOI: 10.1177/23780231241227062](https://doi.org/10.1177/23780231241227062)
 
-- Fujihara, S. (2024). Educational assortative mating in Japan: Insights into social change and stratification. *Japanese Journal of Sociology*, 33(1), 23-42. [DOI: 10.1111/ijjs.12170](https://doi.org/10.1111/ijjs.12170)
-
 ### 2023
 
 - Fujihara, S. (2023). Explaining class differences in educational attainment in Japan: An empirical test of the Breen and Goldthorpe model. *Research in Social Stratification and Mobility*, 83, 100770. [DOI: 10.1016/j.rssm.2023.100770](https://doi.org/10.1016/j.rssm.2023.100770)
