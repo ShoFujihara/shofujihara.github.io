@@ -19,3 +19,8 @@
 
 # Old site files
 _site/
+
+# Working/reference files
+_data.md
+google_sites_content.txt
+NOTES.md

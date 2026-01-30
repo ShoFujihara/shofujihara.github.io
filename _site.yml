@@ -1,8 +1,0 @@
-name: "Sho Fujihara"
-navbar:
-  title: "Sho Fujihara"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "CV"
-      href: cv.html

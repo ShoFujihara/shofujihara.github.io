@@ -92,6 +92,34 @@ American Journal of Sociology, American Sociological Review, Asia Pacific Journa
 - 社会調査士（第005229, 2009年6月1日）
 - 専門社会調査士（第A-000103, 2009年6月1日）
 
+## Theses
+
+### 博士論文
+
+- 藤原翔，2010，「教育達成の階級・階層間格差の生成・維持メカニズム———John H. Goldthorpeの合理的選択理論にもとづく計量社会学的研究」大阪大学大学院人間科学研究科博士論文．[国立国会図書館](https://ndlsearch.ndl.go.jp/books/R100000002-I000011012476)
+
+### 修士論文
+
+- 藤原翔，2007，「高等教育政策と教育機会の不平等に関する実証研究」大阪大学大学院人間科学研究科修士論文．
+
+## Grants (競争的資金)
+
+[KAKEN](https://nrid.nii.ac.jp/ja/nrid/1000060609676/)
+
+| Period | Type | Title | Grant Number |
+|--------|------|-------|--------------|
+| **2023–2029** | 特別推進研究 | 格差・不平等と社会的分断の実態把握とその解決のため大規模調査による社会科学的研究 | [23H05402](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23H05402/) |
+| 2022 | 基盤研究(A) | 若年層の地位達成とライフスタイルに関するパネル調査データの収集と因果分析 | [22H00069](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22H00069/) |
+| 2021–2022 | 挑戦的研究（開拓） | オンラインパネルモニタ構築による社会科学的研究 | [21K18131](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21K18131/) |
+| 2019–2021 | 基盤研究(B) | 中学時からの親子パネル調査を活用した格差・不平等に関する領域横断的研究 | [19H01637](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19H01637/) |
+| 2018–2020 | 挑戦的研究（萌芽） | 公的統計データを用いた領域横断的格差研究の実施と教育 | [18K18594](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-18K18594/) |
+| 2017 | 野村財団研究助成 | 母子世帯の中学生の実態把握と政策的支援のためのパネル調査 | — |
+| 2016–2018 | 挑戦的萌芽研究 | 高校生の決定進路に関する追跡調査とパネルデータの構築 | [16K13545](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-16K13545/) |
+| 2015–2018 | 若手研究A | 中学から高校への移行に注目した教育格差生成メカニズムの解明 | [15H05397](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-15H05397/) |
+| 2015 | 日本経済研究センター研究奨励金 | 母子世帯の中学生の実態把握と政策的支援のための実証研究 | — |
+| 2012–2014 | 若手研究B | 高校生と母親の意識からみた教育機会の社会経済的格差生成メカニズムの解明 | [24730417](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24730417/) |
+| 2009–2010 | 特別研究員奨励費 | 現代日本社会における教育機会の不平等の生成・維持メカニズム | [09J03065](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-09J03065/) |
+
 ## Identifiers
 
 - Researcher Number (KAKEN): 60609676
