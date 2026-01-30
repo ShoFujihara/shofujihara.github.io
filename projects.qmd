@@ -27,6 +27,14 @@ title: "Current Projects"
 - Rによる分析スクリプト（`analysis.R`, `match_example.R`）
 - 日本の職業分類対応表
 
+### SEI・SSIの分布
+
+![SEI・SSIの概要](https://raw.githubusercontent.com/ShoFujihara/OccupationalScales/main/figures/sei_ssi_overview.svg){width=80%}
+
+### 男女別SEIの比較
+
+![男女別SEIの比較](https://raw.githubusercontent.com/ShoFujihara/OccupationalScales/main/figures/msei_fsei_comparison.svg){width=80%}
+
 ## 格差解消のための介入についての研究
 
 教育格差・社会経済的格差の解消に向けた介入研究。因果推論の手法を用いて、どのような介入が格差解消に効果的かを検証しています。
@@ -61,3 +69,4 @@ SSJDAが実施するパネル調査プロジェクト。
 
 - [Association Models Japanese](https://shofujihara.github.io/Association_Models_Japanese/) - 『カテゴリカルデータの連関モデル』サポートページ
 - [GitHub: ShoFujihara](https://github.com/ShoFujihara) - コード、データ、分析スクリプトを公開
+- [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4NLFOI) - 論文のReplication package

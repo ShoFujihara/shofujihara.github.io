@@ -200,7 +200,7 @@
     "href": "projects.html#職業的地位尺度の開発",
     "title": "Current Projects",
     "section": "職業的地位尺度の開発",
-    "text": "職業的地位尺度の開発\n日本社会に適した職業的地位尺度（Occupational Status Scale）の開発・更新を行っています。\n\nFujihara, S. (2020). Socio-Economic Standing and Social Status in Contemporary Japan: Scale Constructions and Their Applications. European Sociological Review, 36(4), 548-561. DOI: 10.1093/esr/jcaa010\n\n📦 GitHub: OccupationalScales\n社会経済的地位指標（SEI）と社会的地位指標（SSI）のデータとRスクリプトを公開しています。\n\nJESS（就業構造基本調査）・SSM調査に対応したデータ（CSV・Stata形式）\n性別ごとのSEI、学歴・収入に基づく指標\nRによる分析スクリプト（analysis.R, match_example.R）\n日本の職業分類対応表"
+    "text": "職業的地位尺度の開発\n日本社会に適した職業的地位尺度（Occupational Status Scale）の開発・更新を行っています。\n\nFujihara, S. (2020). Socio-Economic Standing and Social Status in Contemporary Japan: Scale Constructions and Their Applications. European Sociological Review, 36(4), 548-561. DOI: 10.1093/esr/jcaa010\n\n📦 GitHub: OccupationalScales\n社会経済的地位指標（SEI）と社会的地位指標（SSI）のデータとRスクリプトを公開しています。\n\nJESS（就業構造基本調査）・SSM調査に対応したデータ（CSV・Stata形式）\n性別ごとのSEI、学歴・収入に基づく指標\nRによる分析スクリプト（analysis.R, match_example.R）\n日本の職業分類対応表\n\n\nSEI・SSIの分布\n\n\n\nSEI・SSIの概要\n\n\n\n\n男女別SEIの比較\n\n\n\n男女別SEIの比較"
   },
   {
     "objectID": "projects.html#格差解消のための介入についての研究",
@@ -214,6 +214,6 @@
     "href": "projects.html#other-projects",
     "title": "Current Projects",
     "section": "Other Projects",
-    "text": "Other Projects\n\nPanel Study of Middle School Students and Mothers\n2015年から継続している縦断的パネル調査。中学生とその母親を追跡し、教育達成、職業達成、家族形成などのライフコースを研究しています。\n\n\n子どもの生活と学びに関する親子調査\nベネッセ教育総合研究所と東京大学社会科学研究所の共同研究プロジェクト。子どもの学びと成長を長期的に追跡しています。\n\n子どもの生活と学び研究プロジェクト\n\n\n\nSSJDA (Social Science Japan Data Archive)\n社会科学データアーカイブの運営に携わり、日本の社会科学研究におけるデータ共有・二次分析の推進に貢献しています。\n\n\nSSJDA Panel\nSSJDAが実施するパネル調査プロジェクト。\n\n\n二次分析の入門\n社会調査データの二次分析に関する入門教材・チュートリアルの作成。SSJDAのデータを活用した実践的な分析方法を解説しています。\n\n\nR Packages & Tools\n\nAssociation Models Japanese - 『カテゴリカルデータの連関モデル』サポートページ\nGitHub: ShoFujihara - コード、データ、分析スクリプトを公開"
+    "text": "Other Projects\n\nPanel Study of Middle School Students and Mothers\n2015年から継続している縦断的パネル調査。中学生とその母親を追跡し、教育達成、職業達成、家族形成などのライフコースを研究しています。\n\n\n子どもの生活と学びに関する親子調査\nベネッセ教育総合研究所と東京大学社会科学研究所の共同研究プロジェクト。子どもの学びと成長を長期的に追跡しています。\n\n子どもの生活と学び研究プロジェクト\n\n\n\nSSJDA (Social Science Japan Data Archive)\n社会科学データアーカイブの運営に携わり、日本の社会科学研究におけるデータ共有・二次分析の推進に貢献しています。\n\n\nSSJDA Panel\nSSJDAが実施するパネル調査プロジェクト。\n\n\n二次分析の入門\n社会調査データの二次分析に関する入門教材・チュートリアルの作成。SSJDAのデータを活用した実践的な分析方法を解説しています。\n\n\nR Packages & Tools\n\nAssociation Models Japanese - 『カテゴリカルデータの連関モデル』サポートページ\nGitHub: ShoFujihara - コード、データ、分析スクリプトを公開\nHarvard Dataverse - 論文のReplication package"
   }
 ]
