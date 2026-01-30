@@ -11,6 +11,9 @@
 # macOS
 .DS_Store
 
+# Claude Code
+.claude/
+
 # Backup files
 *.bak
 

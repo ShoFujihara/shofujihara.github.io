@@ -18,6 +18,15 @@ title: "Current Projects"
 
 - Fujihara, S. (2020). Socio-Economic Standing and Social Status in Contemporary Japan: Scale Constructions and Their Applications. *European Sociological Review*, 36(4), 548-561. [DOI: 10.1093/esr/jcaa010](https://doi.org/10.1093/esr/jcaa010)
 
+📦 [GitHub: OccupationalScales](https://github.com/ShoFujihara/OccupationalScales)
+
+社会経済的地位指標（SEI）と社会的地位指標（SSI）のデータとRスクリプトを公開しています。
+
+- JESS（就業構造基本調査）・SSM調査に対応したデータ（CSV・Stata形式）
+- 性別ごとのSEI、学歴・収入に基づく指標
+- Rによる分析スクリプト（`analysis.R`, `match_example.R`）
+- 日本の職業分類対応表
+
 ## 格差解消のための介入についての研究
 
 教育格差・社会経済的格差の解消に向けた介入研究。因果推論の手法を用いて、どのような介入が格差解消に効果的かを検証しています。
