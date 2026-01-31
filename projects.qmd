@@ -8,13 +8,11 @@ title: "Current Projects"
 
 - [2025SSM調査 公式サイト](https://ssm2025.jp/)
 
-## 職業の自動コーディングシステムの開発
+## 職業コーディングと職業的地位尺度の開発
 
-自然言語処理・機械学習を用いた職業コーディングの自動化システムを開発しています。社会調査における職業情報の標準化と効率化を目指しています。
+自然言語処理・機械学習を用いた職業コーディングの自動化システムと、日本社会に適した職業的地位尺度（Occupational Status Scale）の開発を行っています。
 
-## 職業的地位尺度の開発
-
-日本社会に適した職業的地位尺度（Occupational Status Scale）の開発・更新を行っています。
+現在、これらを融合し、自由回答から直接職業的地位尺度を推定する手法（Plausible Values）の開発に取り組んでいます。職業分類へのコーディングを介さずに、回答テキストから直接SEI・SSIを推定することで、コーディングの曖昧さに起因する測定誤差を適切に考慮した分析が可能になります。
 
 - Fujihara, S. (2020). Socio-Economic Standing and Social Status in Contemporary Japan: Scale Constructions and Their Applications. *European Sociological Review*, 36(4), 548-561. [DOI: 10.1093/esr/jcaa010](https://doi.org/10.1093/esr/jcaa010)
 
