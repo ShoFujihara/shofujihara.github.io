@@ -46,6 +46,6 @@ I am a Professor at the [Institute of Social Science](https://www.iss.u-tokyo.ac
 
 ## Contact
 
-Institute of Social Science, University of Tokyo
-7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan
+Institute of Social Science, University of Tokyo<br>
+7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan<br>
 Email: sho.fujihara [at] iss.u-tokyo.ac.jp
