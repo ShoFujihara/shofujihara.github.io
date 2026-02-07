@@ -25,6 +25,10 @@ title: "Lecture"
 
 - S1：水3・水4　[教育調査分析法](https://catalog.he.u-tokyo.ac.jp/detail?code=09252401&year=2025)（教育学部）
 
+### セミナー
+
+- 2026年2月17日　[Rによる二次分析入門：「子どもの生活と学びに関する親子調査」を用いて](https://csrda.iss.u-tokyo.ac.jp/img/02_17_2026spring.pdf)（CSRDA計量分析セミナー）
+
 ## 2024年度
 
 ### 大学院
@@ -86,6 +90,10 @@ title: "Lecture"
 - S1S2：水3　[教育調査分析法](https://catalog.he.u-tokyo.ac.jp/detail?code=09202401&year=2020)（教育学部）
 - A1A2：月3・月4　[社会調査](https://catalog.he.u-tokyo.ac.jp/detail?code=04204311&year=2020)（教養学部）
 
+### セミナー
+
+- 2021年3月2日　[二次分析のためのR入門](https://csrda.iss.u-tokyo.ac.jp/pdf/3_2_2020spring.pdf)（CSRDA計量分析セミナー）
+
 ## 2019年度
 
 ### 大学院
@@ -96,3 +104,37 @@ title: "Lecture"
 ### 学部
 
 - A1A2：月3・月4　[社会調査](https://catalog.he.u-tokyo.ac.jp/detail?code=04194311&year=2019)（教養学部）
+
+### セミナー
+
+- 2019年9月5日　[二次分析のためのR入門](https://csrda.iss.u-tokyo.ac.jp/pdf/3r_nyumon_2019summer.pdf)（CSRDA計量分析セミナー）
+
+## 2018年度
+
+### セミナー
+
+- 2018年8月25-26日　[二次分析のためのR入門](https://csrda.iss.u-tokyo.ac.jp/pdf/fujiharaokubo2018sum.pdf)（CSRDA計量分析セミナー）
+
+## 2017年度
+
+### セミナー
+
+- 2017年8月26-27日　[二次分析のためのR入門：記述的分析から論文執筆まで](https://csrda.iss.u-tokyo.ac.jp/pdf/shirakawafujihara2017sum.pdf)（CSRDA計量分析セミナー）
+
+## 2016年度
+
+### セミナー
+
+- 2016年8月31日　[二次分析のためのR入門](https://csrda.iss.u-tokyo.ac.jp/rps/fujiwara2016sum.pdf)（CSRDA計量分析セミナー）
+
+## 2015年度
+
+### セミナー
+
+- 2016年3月7-8日　[二次分析のためのR入門](https://csrda.iss.u-tokyo.ac.jp/guideR2015.pdf)（CSRDA計量分析セミナー）
+
+## 2014年度
+
+### セミナー
+
+- 2014年9月4-5日　[Rによる二次分析入門](https://csrda.iss.u-tokyo.ac.jp/pdf/R2014.pdf)（CSRDA計量分析セミナー）
