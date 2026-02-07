@@ -59,8 +59,11 @@ SSJDAが実施するパネル調査プロジェクト。
 
 社会調査データの二次分析に関する入門教材・チュートリアルの作成。SSJDAのデータを活用した実践的な分析方法を解説しています。
 
+📦 [GitHub: social_survey_R](https://github.com/ShoFujihara/social_survey_R) — 社会調査データの分析のためのRパッケージ `socialsurvey` を公開しています。
+
 ### R Packages & Tools
 
+- [socialsurvey](https://github.com/ShoFujihara/social_survey_R) - 社会調査データ分析のためのRパッケージ
 - [Association Models Japanese](https://shofujihara.github.io/Association_Models_Japanese/) - 『カテゴリカルデータの連関モデル』サポートページ
 - [GitHub: ShoFujihara](https://github.com/ShoFujihara) - コード、データ、分析スクリプトを公開
 - [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4NLFOI) - 論文のReplication package
