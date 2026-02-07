@@ -16,83 +16,83 @@ title: "Lecture"
 
 ### 大学院
 
-- S1：水3・水4　教育調査分析法
-- S2：水3・水4　教育社会学方法論研究
-- A1A2：水2　計量社会科学I
-- A1A2：水4　量的調査研究法
+- S1S2：水2　[社会階層論](https://catalog.he.u-tokyo.ac.jp/detail?code=21254152&year=2025)（人文社会系研究科）
+- S2：水3・水4　[教育社会学方法論研究](https://catalog.he.u-tokyo.ac.jp/detail?code=23-212-06&year=2025)（教育学研究科）
+- A1A2：水2　[計量社会科学I](https://catalog.he.u-tokyo.ac.jp/detail?code=31M230-0950A&year=2025)（総合文化研究科）
+- A1A2：水4　[量的調査研究法](https://catalog.he.u-tokyo.ac.jp/detail?code=21254153&year=2025)（人文社会系研究科）
 
 ### 学部
 
-- S1S2：水2　社会階層論
+- S1：水3・水4　[教育調査分析法](https://catalog.he.u-tokyo.ac.jp/detail?code=09252401&year=2025)（教育学部）
 
 ## 2024年度
 
 ### 大学院
 
-- S1S2：水3　教育調査分析法
-- S2：月3・月4　教育社会学方法論研究
-- A1A2：水2　計量社会科学I
-- A1A2：水4　量的調査研究法
+- S1S2：水2　[社会階層論](https://catalog.he.u-tokyo.ac.jp/detail?code=21244152&year=2024)（人文社会系研究科）
+- S2：月3・月4　[教育社会学方法論研究](https://catalog.he.u-tokyo.ac.jp/detail?code=23-212-06&year=2024)（教育学研究科）
+- A1A2：水2　[計量社会科学I](https://catalog.he.u-tokyo.ac.jp/detail?code=31M230-0950A&year=2024)（総合文化研究科）
+- A1A2：水4　[量的調査研究法](https://catalog.he.u-tokyo.ac.jp/detail?code=21244153&year=2024)（人文社会系研究科）
 
 ### 学部
 
-- S1S2：水2　社会階層論
+- S1S2：水3　[教育調査分析法](https://catalog.he.u-tokyo.ac.jp/detail?code=09242402&year=2024)（教育学部）
 
 ## 2023年度
 
 ### 大学院
 
-- S1S2：水3　教育調査分析法
-- A1A2：水2　計量社会科学I
-- A1A2：水4　量的調査
+- S1S2：水2　[社会階層論](https://catalog.he.u-tokyo.ac.jp/detail?code=21234160&year=2023)（人文社会系研究科）
+- A1A2：水2　[計量社会科学I](https://catalog.he.u-tokyo.ac.jp/detail?code=31M230-0950A&year=2023)（総合文化研究科）
+- A1A2：水4　[量的調査](https://catalog.he.u-tokyo.ac.jp/detail?code=21234107&year=2023)（人文社会系研究科）
 
 ### 学部
 
-- S1S2：水2　社会階層論
+- S1S2：水3　[教育調査分析法](https://catalog.he.u-tokyo.ac.jp/detail?code=09232402&year=2023)（教育学部）
 
 ## 2022年度
 
 ### 大学院
 
-- S1S2：水3　教育調査分析法
-- A1A2：水2　計量社会科学I
-- A1A2：水4　量的調査
+- S1S2：水2　[社会階層論](https://catalog.he.u-tokyo.ac.jp/detail?code=21224162&year=2022)（人文社会系研究科）
+- A1A2：水2　[計量社会科学I](https://catalog.he.u-tokyo.ac.jp/detail?code=31M230-0950A&year=2022)（総合文化研究科）
+- A1A2：水4　[量的調査](https://catalog.he.u-tokyo.ac.jp/detail?code=21224105&year=2022)（人文社会系研究科）
 
 ### 学部
 
-- S1S2：水2　社会階層論
+- S1S2：水3　[教育調査分析法](https://catalog.he.u-tokyo.ac.jp/detail?code=09222401&year=2022)（教育学部）
 
 ## 2021年度
 
 ### 大学院
 
-- S1S2：水3　教育調査分析法
-- A1A2：水2　計量社会科学I
+- S1S2：水2　[社会階層論](https://catalog.he.u-tokyo.ac.jp/detail?code=21214163&year=2021)（人文社会系研究科）
+- A1A2：水2　[計量社会科学I](https://catalog.he.u-tokyo.ac.jp/detail?code=31M230-0950A&year=2021)（総合文化研究科）
 
 ### 学部
 
-- S1S2：水2　社会階層論
-- A1A2：月3・月4　社会調査
+- S1S2：水3　[教育調査分析法](https://catalog.he.u-tokyo.ac.jp/detail?code=09212401&year=2021)（教育学部）
+- A1A2：月3・月4　[社会調査](https://catalog.he.u-tokyo.ac.jp/detail?code=04214311&year=2021)（教養学部）
 
 ## 2020年度
 
 ### 大学院
 
-- S1S2：水3　教育調査分析法
-- A1A2：水4　計量社会科学I
+- S1S2：水2　[社会階層論](https://catalog.he.u-tokyo.ac.jp/detail?code=21204160&year=2020)（人文社会系研究科）
+- A1A2：水4　[計量社会科学I](https://catalog.he.u-tokyo.ac.jp/detail?code=31M230-0950A&year=2020)（総合文化研究科）
 
 ### 学部
 
-- S1S2：水2　社会階層論
-- A1A2：月3・月4　社会調査
+- S1S2：水3　[教育調査分析法](https://catalog.he.u-tokyo.ac.jp/detail?code=09202401&year=2020)（教育学部）
+- A1A2：月3・月4　[社会調査](https://catalog.he.u-tokyo.ac.jp/detail?code=04204311&year=2020)（教養学部）
 
 ## 2019年度
 
 ### 大学院
 
-- A1A2：水2　計量社会科学I
+- S1S2：水2　[社会階層論](https://catalog.he.u-tokyo.ac.jp/detail?code=21194158&year=2019)（人文社会系研究科）
+- A1A2：水2　[計量社会科学I](https://catalog.he.u-tokyo.ac.jp/detail?code=31M230-0950A&year=2019)（総合文化研究科）
 
 ### 学部
 
-- S1S2：水2　社会階層論
-- A1A2：月3・月4　社会調査
+- A1A2：月3・月4　[社会調査](https://catalog.he.u-tokyo.ac.jp/detail?code=04194311&year=2019)（教養学部）
