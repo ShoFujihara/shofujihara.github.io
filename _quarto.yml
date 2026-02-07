@@ -18,6 +18,8 @@ website:
         text: Research
       - href: projects.qmd
         text: Projects
+      - href: lecture.qmd
+        text: Lecture
     right:
       - icon: github
         href: https://github.com/ShoFujihara
