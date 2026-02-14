@@ -3,10 +3,18 @@
 /* Improve table readability */
 table {
   font-size: 0.95rem;
+  border: none;
 }
 
-table th {
-  background-color: #f8f9fa;
+table th, table td {
+  border: none;
+  border-bottom: 1px solid #e9ecef;
+}
+
+table thead th {
+  background-color: transparent;
+  border-bottom: 2px solid #dee2e6;
+  font-weight: 600;
 }
 
 /* About page styling */
