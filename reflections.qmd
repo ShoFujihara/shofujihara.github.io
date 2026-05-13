@@ -1,6 +1,7 @@
 ---
 title: "Reflections on My Research"
 subtitle: "A Critical Self-Review of Eight Major Articles"
+date: 2026-05-14
 toc: true
 toc-depth: 2
 ---
