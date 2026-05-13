@@ -5,6 +5,10 @@ include-after-body:
     <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 ---
 
+::: {.callout-note}
+A critical self-review of my major articles is available on the [Reflections](reflections.qmd) page (also available in [Japanese](reflections_ja.qmd)).
+:::
+
 ## Research Interests
 
 My research focuses on understanding social stratification and inequality in contemporary Japanese society through quantitative analysis of survey data.

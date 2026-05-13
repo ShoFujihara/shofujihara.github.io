@@ -16,6 +16,8 @@ website:
         text: CV
       - href: research.qmd
         text: Research
+      - href: reflections.qmd
+        text: Reflections
       - href: projects.qmd
         text: Projects
       - href: lecture.qmd
