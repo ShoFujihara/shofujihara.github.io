@@ -6,6 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2026-05-14">
 
 <title>これまでの研究を振り返る – Sho Fujihara</title>
 <style>
@@ -165,7 +166,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#軸-2-弱みの克服" id="toc-軸-2-弱みの克服" class="nav-link" data-scroll-target="#軸-2-弱みの克服">軸 2: 弱みの克服</a></li>
   <li><a href="#軸の統合-研究プログラムの全体像" id="toc-軸の統合-研究プログラムの全体像" class="nav-link" data-scroll-target="#軸の統合-研究プログラムの全体像">軸の統合: 研究プログラムの全体像</a></li>
   <li><a href="#結語" id="toc-結語" class="nav-link" data-scroll-target="#結語">結語</a></li>
-  <li><a href="#appendix-prompts" id="toc-appendix-prompts" class="nav-link" data-scroll-target="#appendix-prompts">付録：使用したプロンプト</a></li>
+  <li><a href="#appendix-prompts" id="toc-appendix-prompts" class="nav-link" data-scroll-target="#appendix-prompts">付録：使用したプロンプトとワークフロー</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -184,6 +185,12 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 14, 2026</p>
+    </div>
+  </div>
   
     
   </div>
@@ -208,7 +215,7 @@ Note
 </div>
 <p>本ページは、自身の研究の限界を弁護するためのものでも、過大に肯定するためのものでもない。AI による独立した批判的レビューを参照することで多少なりとも客観性を持たせつつ、これまでの研究を振り返り、次の研究の方向を考えるためのノートである。</p>
 <p>社会階層・教育機会・職業・健康に関するこれまでの主要な英文査読論文 8 本を、強みと弱みの双方から振り返る。社会階層研究はデータ、方法論、理論枠組みのいずれの面でも急速に変化しており、過去の研究を率直に評価し直すことは、今後の研究方針を考える上で不可欠と考えている。</p>
-<p>本振り返りは、各論文の本文の精読と、独立した第三者的視点としての AI による批判的レビュー（OpenAI Codex CLI）を組み合わせて作成した。プロンプトは<a href="#appendix-prompts">付録</a>に掲載している。</p>
+<p>本振り返りは、二つの AI ツール（Anthropic の Claude Code と OpenAI の Codex CLI）による独立した批判的レビューと、私自身による読み返しを組み合わせて作成した。両 AI ツールは各論文の PDF を直接読み込んだ上で、強み・弱み・総合評価・含意を構造化して出力している。プロンプトは<a href="#appendix-prompts">付録</a>に掲載している。</p>
 <hr>
 <section id="振り返りの対象" class="level2">
 <h2 class="anchored" data-anchor-id="振り返りの対象">振り返りの対象</h2>
@@ -689,8 +696,8 @@ Note
 <hr>
 </section>
 <section id="appendix-prompts" class="level2">
-<h2 class="anchored" data-anchor-id="appendix-prompts">付録：使用したプロンプト</h2>
-<p>各論文への独立した批判的レビューは、OpenAI の Codex CLI を用いて取得した。使用したプロンプトの定型は以下の通り:</p>
+<h2 class="anchored" data-anchor-id="appendix-prompts">付録：使用したプロンプトとワークフロー</h2>
+<p>各論文への独立した批判的レビューは、<strong>Anthropic の Claude Code</strong> と <strong>OpenAI の Codex CLI</strong> という二つの AI ツールから取得した。両ツールには各論文の PDF を直接渡し、以下の同一テンプレートでレビューを依頼した:</p>
 <blockquote class="blockquote">
 <p>あなたは社会階層論・計量社会学・因果推論に通じた厳格かつ公平な査読者です。論文を批判的にも建設的にも検討し、自己点検資料を作る目的で総合評価をしてください。</p>
 <p><strong>強み (3-5 点、各2-3文):</strong> 概念的・方法的・実証的・データ的・国際性の観点で、この論文の固有の貢献を厳しく評価。誇張せず、地に足のついた表現で。</p>
@@ -698,8 +705,8 @@ Note
 <p><strong>総合評価 (2-3 文):</strong> ネットの貢献度、固有性、研究プログラムにおける継承価値を簡潔に。</p>
 <p><strong>今後の方針への含意 (2-3 点):</strong> 強みを伸ばす方向と、弱みを克服する方向の両方を、具体的に。</p>
 </blockquote>
-<p>プロンプトは各論文の PDF を直接参照する形で実行し、Codex は本文を読み込んだ上でレビューを生成した。これらの独立レビューは、私自身の精読と並行して読み、両者を統合する形で本ページの記述を作成した。</p>
-<p>このような AI 支援による批判的自己レビューは、慎重な精読や通常の査読を置き換えるものではなく、それを補完する「構造化されたセカンド・オピニオン」を得る方法として位置づけている。本ページの記述は私自身の判断によるものであり、AI 支援レビューは構造を整え、重要な批判点の見落としを防ぐ役割を果たしている。</p>
+<p>二つの AI から得られたレビュー（互いに独立しており、異なる研究機関のモデルが生成したもの）と、私自身の読み返しを統合して本ページの記述を作成した。</p>
+<p>このような AI 支援による批判的自己レビューは、著者自身の精読や通常の査読を置き換えるものではなく、それを補完する「構造化されたセカンド・オピニオン」を得る方法として位置づけている。本ページの記述は私自身の判断によるものであり、AI 支援レビューは構造を整え、重要な批判点の見落としを防ぐ役割を果たしている。</p>
 
 
 </section>
@@ -1133,7 +1140,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>© 2025 Sho Fujihara</p>
+<p>© 2026 Sho Fujihara</p>
 </div>
     <div class="nav-footer-right">
       &nbsp;
