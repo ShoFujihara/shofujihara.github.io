@@ -544,5 +544,26 @@
     "title": "これまでの研究を振り返る",
     "section": "付録：使用したプロンプトとワークフロー",
     "text": "付録：使用したプロンプトとワークフロー\n各論文への独立した批判的レビューは、Anthropic の Claude Code と OpenAI の Codex CLI という二つの AI ツールから取得した。両ツールには各論文の PDF を直接渡し、以下の同一テンプレートでレビューを依頼した:\n\nあなたは社会階層論・計量社会学・因果推論に通じた厳格かつ公平な査読者です。論文を批判的にも建設的にも検討し、自己点検資料を作る目的で総合評価をしてください。\n強み (3-5 点、各2-3文): 概念的・方法的・実証的・データ的・国際性の観点で、この論文の固有の貢献を厳しく評価。誇張せず、地に足のついた表現で。\n弱み (5-7 点、各2-3文): 同様に厳しく。\n総合評価 (2-3 文): ネットの貢献度、固有性、研究プログラムにおける継承価値を簡潔に。\n今後の方針への含意 (2-3 点): 強みを伸ばす方向と、弱みを克服する方向の両方を、具体的に。\n\n二つの AI から得られたレビュー（互いに独立しており、異なる研究機関のモデルが生成したもの）と、私自身の読み返しを統合して本ページの記述を作成した。\nこのような AI 支援による批判的自己レビューは、著者自身の精読や通常の査読を置き換えるものではなく、それを補完する「構造化されたセカンド・オピニオン」を得る方法として位置づけている。本ページの記述は私自身の判断によるものであり、AI 支援レビューは構造を整え、重要な批判点の見落としを防ぐ役割を果たしている。"
+  },
+  {
+    "objectID": "stratification2026.html",
+    "href": "stratification2026.html",
+    "title": "社会階層論 2026",
+    "section": "",
+    "text": "本授業では，社会階層論をはじめとする社会学的研究において因果推論をどのように行うかを，主要文献の精読を通じて学ぶ。なぜ社会科学で因果推論が必要となるのかという問いから出発し，因果効果の定義とランダム化実験，観察研究における識別，因果グラフ（DAG）とコントロール変数の選択，処置効果の異質性，因果媒介分析，因果分解，因果機械学習，操作変数法といったトピックを順に取り上げる。\n各回では指定された論文・書籍の章を事前に読み，授業内で議論を行う。第1回でリストを確認した上で，参加者の関心に応じて進度を調整することがある。\n\n\n\n\n\n\nNote\n\n\n\n日程・文献は変更されることがある。最新の開講情報はLectureのページを参照のこと。"
+  },
+  {
+    "objectID": "stratification2026.html#授業の概要",
+    "href": "stratification2026.html#授業の概要",
+    "title": "社会階層論 2026",
+    "section": "",
+    "text": "本授業では，社会階層論をはじめとする社会学的研究において因果推論をどのように行うかを，主要文献の精読を通じて学ぶ。なぜ社会科学で因果推論が必要となるのかという問いから出発し，因果効果の定義とランダム化実験，観察研究における識別，因果グラフ（DAG）とコントロール変数の選択，処置効果の異質性，因果媒介分析，因果分解，因果機械学習，操作変数法といったトピックを順に取り上げる。\n各回では指定された論文・書籍の章を事前に読み，授業内で議論を行う。第1回でリストを確認した上で，参加者の関心に応じて進度を調整することがある。\n\n\n\n\n\n\nNote\n\n\n\n日程・文献は変更されることがある。最新の開講情報はLectureのページを参照のこと。"
+  },
+  {
+    "objectID": "stratification2026.html#スケジュール",
+    "href": "stratification2026.html#スケジュール",
+    "title": "社会階層論 2026",
+    "section": "スケジュール",
+    "text": "スケジュール\n\n第1回　4/8　ガイダンス\n授業の概要，自己紹介，論文リストの確認。\n\n\n第2回　4/15　なぜ因果推論か\n\nHernán, M. A. (2018). The C-word: Scientific euphemisms do not improve causal inference from observational data. American Journal of Public Health, 108(5), 616–619. https://doi.org/10.2105/AJPH.2018.304337\nHernán, M. A., Hsu, J., & Healy, B. (2019). A second chance to get causal inference right: A classification of data science tasks. CHANCE, 32(1), 42–49. https://doi.org/10.1080/09332480.2019.1579578\n\n\n\n第3回　4/22　因果効果の定義とランダム化実験\n\nHernán, M. A., & Robins, J. M. (2020). Causal Inference: What If. Chapman & Hall/CRC. — Chapter 1 “A Definition of Causal Effect” & Chapter 2 “Randomized Experiments”. https://miguelhernan.org/whatifbook\n\n\n\n第4回　5/13　観察研究・効果修飾・交互作用\n\nHernán, M. A., & Robins, J. M. (2020). Causal Inference: What If. Chapman & Hall/CRC. — Chapter 3 “Observational Studies”, Chapter 4 “Effect Modification”, Chapter 5 “Interaction”. https://miguelhernan.org/whatifbook\n\n\n\n\n\n\n\n5/20　休講（学会のため）\n\n\n\n\n\n第5回　5/27　DAG入門：因果グラフの読み方\n\nRohrer, J. M. (2018). Thinking clearly about correlations and causation: Graphical causal models for observational data. Advances in Methods and Practices in Psychological Science, 1(1), 27–42. https://doi.org/10.1177/2515245917745629\n\n\n\n第6回　6/3　良いコントロール変数・悪いコントロール変数\n\nCinelli, C., Forney, A., & Pearl, J. (2022). A crash course in good and bad controls. Sociological Methods & Research, 53(3), 1071–1104. https://doi.org/10.1177/00491241221099552\n\n\n\n第7回　6/10　処置効果の異質性\n\nBrand, J. E., Xu, J., Koch, B., & Geraldo, P. (2021). Uncovering sociological effect heterogeneity using tree-based machine learning. Sociological Methodology, 51(2), 201–234. https://doi.org/10.1177/0081175021993503\n\n\n\n第8回　6/17　因果媒介分析：応用研究者のための整理\n\nNguyen, T. Q., Schmid, I., & Stuart, E. A. (2021). Clarifying causal mediation analysis for the applied researcher: Defining effects based on what we want to learn. Psychological Methods, 26(2), 255–271. https://doi.org/10.1037/met0000299\n［補足］Nguyen, T. Q., Schmid, I., Ogburn, E. L., & Stuart, E. A. (2022). Clarifying causal mediation analysis: Effect identification via three assumptions and five potential outcomes. Journal of Causal Inference, 10(1), 246–279. https://doi.org/10.1515/jci-2021-0049\n\n\n\n第9回　6/24　因果分解による格差分析\n\nPark, S., Qin, X., & Lee, C. (2022). Estimation and sensitivity analysis for causal decomposition in health disparity research. Sociological Methods & Research. https://doi.org/10.1177/00491241211067516\n\n\n\n第10回　7/1　サーベイ推論と因果グラフ\n\nSchuessler, J., & Selb, P. (2023). Graphical causal models for survey inference. Sociological Methods & Research. https://doi.org/10.1177/00491241231176851\n\n\n\n第11回　7/8　因果機械学習：演繹的・帰納的枠組み\n\nJeon, N., & Brand, J. E. (2026). Causal machine learning: A deductive–inductive framework for sociological research. Kölner Zeitschrift für Soziologie und Sozialpsychologie. https://doi.org/10.1007/s11577-026-01053-0\n\n\n\n第12回　7/15　操作変数法の社会学的実践への批判的レビュー\n\nFelton, C., & Stewart, B. M. (2026). Handle with care: A sociologist’s guide to causal inference with instrumental variables. Sociological Methods & Research, 55(1), 3–50. https://doi.org/10.1177/00491241241235900"
   }
 ]

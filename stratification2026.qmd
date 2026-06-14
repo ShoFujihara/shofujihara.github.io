@@ -1,0 +1,70 @@
+---
+title: "社会階層論 2026"
+subtitle: "東京大学大学院人文社会系研究科（S1S2・水2）"
+---
+
+## 授業の概要
+
+本授業では，社会階層論をはじめとする社会学的研究において因果推論をどのように行うかを，主要文献の精読を通じて学ぶ。なぜ社会科学で因果推論が必要となるのかという問いから出発し，因果効果の定義とランダム化実験，観察研究における識別，因果グラフ（DAG）とコントロール変数の選択，処置効果の異質性，因果媒介分析，因果分解，因果機械学習，操作変数法といったトピックを順に取り上げる。
+
+各回では指定された論文・書籍の章を事前に読み，授業内で議論を行う。第1回でリストを確認した上で，参加者の関心に応じて進度を調整することがある。
+
+::: {.callout-note}
+日程・文献は変更されることがある。最新の開講情報は[Lecture](lecture.qmd)のページを参照のこと。
+:::
+
+## スケジュール
+
+### 第1回　4/8　ガイダンス
+
+授業の概要，自己紹介，論文リストの確認。
+
+### 第2回　4/15　なぜ因果推論か
+
+- Hernán, M. A. (2018). The C-word: Scientific euphemisms do not improve causal inference from observational data. *American Journal of Public Health*, 108(5), 616–619. [https://doi.org/10.2105/AJPH.2018.304337](https://doi.org/10.2105/AJPH.2018.304337)
+- Hernán, M. A., Hsu, J., & Healy, B. (2019). A second chance to get causal inference right: A classification of data science tasks. *CHANCE*, 32(1), 42–49. [https://doi.org/10.1080/09332480.2019.1579578](https://doi.org/10.1080/09332480.2019.1579578)
+
+### 第3回　4/22　因果効果の定義とランダム化実験
+
+- Hernán, M. A., & Robins, J. M. (2020). *Causal Inference: What If*. Chapman & Hall/CRC. — Chapter 1 "A Definition of Causal Effect" & Chapter 2 "Randomized Experiments". [https://miguelhernan.org/whatifbook](https://miguelhernan.org/whatifbook)
+
+### 第4回　5/13　観察研究・効果修飾・交互作用
+
+- Hernán, M. A., & Robins, J. M. (2020). *Causal Inference: What If*. Chapman & Hall/CRC. — Chapter 3 "Observational Studies", Chapter 4 "Effect Modification", Chapter 5 "Interaction". [https://miguelhernan.org/whatifbook](https://miguelhernan.org/whatifbook)
+
+::: {.callout-note appearance="simple"}
+**5/20　休講（学会のため）**
+:::
+
+### 第5回　5/27　DAG入門：因果グラフの読み方
+
+- Rohrer, J. M. (2018). Thinking clearly about correlations and causation: Graphical causal models for observational data. *Advances in Methods and Practices in Psychological Science*, 1(1), 27–42. [https://doi.org/10.1177/2515245917745629](https://doi.org/10.1177/2515245917745629)
+
+### 第6回　6/3　良いコントロール変数・悪いコントロール変数
+
+- Cinelli, C., Forney, A., & Pearl, J. (2022). A crash course in good and bad controls. *Sociological Methods & Research*, 53(3), 1071–1104. [https://doi.org/10.1177/00491241221099552](https://doi.org/10.1177/00491241221099552)
+
+### 第7回　6/10　処置効果の異質性
+
+- Brand, J. E., Xu, J., Koch, B., & Geraldo, P. (2021). Uncovering sociological effect heterogeneity using tree-based machine learning. *Sociological Methodology*, 51(2), 201–234. [https://doi.org/10.1177/0081175021993503](https://doi.org/10.1177/0081175021993503)
+
+### 第8回　6/17　因果媒介分析：応用研究者のための整理
+
+- Nguyen, T. Q., Schmid, I., & Stuart, E. A. (2021). Clarifying causal mediation analysis for the applied researcher: Defining effects based on what we want to learn. *Psychological Methods*, 26(2), 255–271. [https://doi.org/10.1037/met0000299](https://doi.org/10.1037/met0000299)
+- ［補足］Nguyen, T. Q., Schmid, I., Ogburn, E. L., & Stuart, E. A. (2022). Clarifying causal mediation analysis: Effect identification via three assumptions and five potential outcomes. *Journal of Causal Inference*, 10(1), 246–279. [https://doi.org/10.1515/jci-2021-0049](https://doi.org/10.1515/jci-2021-0049)
+
+### 第9回　6/24　因果分解による格差分析
+
+- Park, S., Qin, X., & Lee, C. (2022). Estimation and sensitivity analysis for causal decomposition in health disparity research. *Sociological Methods & Research*. [https://doi.org/10.1177/00491241211067516](https://doi.org/10.1177/00491241211067516)
+
+### 第10回　7/1　サーベイ推論と因果グラフ
+
+- Schuessler, J., & Selb, P. (2023). Graphical causal models for survey inference. *Sociological Methods & Research*. [https://doi.org/10.1177/00491241231176851](https://doi.org/10.1177/00491241231176851)
+
+### 第11回　7/8　因果機械学習：演繹的・帰納的枠組み
+
+- Jeon, N., & Brand, J. E. (2026). Causal machine learning: A deductive–inductive framework for sociological research. *Kölner Zeitschrift für Soziologie und Sozialpsychologie*. [https://doi.org/10.1007/s11577-026-01053-0](https://doi.org/10.1007/s11577-026-01053-0)
+
+### 第12回　7/15　操作変数法の社会学的実践への批判的レビュー
+
+- Felton, C., & Stewart, B. M. (2026). Handle with care: A sociologist's guide to causal inference with instrumental variables. *Sociological Methods & Research*, 55(1), 3–50. [https://doi.org/10.1177/00491241241235900](https://doi.org/10.1177/00491241241235900)
