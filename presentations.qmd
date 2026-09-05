@@ -1,0 +1,120 @@
+---
+title: "Presentations"
+---
+
+Conference presentations and invited talks, listed from the most recent. Peer-reviewed conference papers are listed first, followed by presentations at Japanese academic associations and other invited talks and seminars.
+
+## Conference Presentations (Peer-Reviewed)
+
+1. Sho Fujihara and Kazuko Takahashi. 2026. "Acknowledging Uncertainty in Occupation Coding: NLP Probability Distributions for Measurement Error Correction." International Sociological Association Research Committee on Social Stratification RC28 Summer Meeting 2026. New York University, New York, USA, August 5, 2026.
+2. Sho Fujihara. 2026. "Uncertainty in Occupational Measurement and Its Consequences for Stratification Research: Using NLP Prediction Distributions." 2026 READI Conference (Research on East Asian Demography and Inequality). The Chinese University of Hong Kong, Hong Kong, July 25, 2026.
+3. Sho Fujihara and Kazuko Takahashi. 2026. "An Occupational Data Pipeline that Preserves Uncertainty: From Manual to Automated Coding for Statistical Inference." The 18th Meeting of the Society for Social Choice and Welfare (SSCW 2026). The University of Tokyo, Tokyo, Japan, June 15, 2026.
+4. Sho Fujihara and Raymond Sin-Kwok Wong. 2026. "Constructing Gender-Specific Socioeconomic Indices Using Association Models." International Sociological Association Research Committee on Social Stratification RC28 Spring Meeting 2026. Universidad Pablo de Olavide, Seville, Spain, May 20, 2026.
+5. Sho Fujihara, Kazuko Takahashi, Manabu Okumura, Taizan Suzuki, Ukyo Suzuki, and Shigeru Gougi. 2025. "Automated Occupational Coding for Local and International Standard Classifications: Applying the Sentence-LUKE Model to the Japanese Context", International Sociological Association Research Committee on Social Stratification RC28 Conference. UCLA, Los Angeles, USA. August 7, 2025.
+6. Sho Fujihara and Hiroshi Ishida. 2025. "Life Course Trajectories of College Premium and Their Heterogeneity in Japan." 2025 Research on East Asian Demography and Inequality, Seoul, Korea, July 15, 2025.
+7. Sho Fujihara. 2025 "How much does education reduce the disparity in occupational attainment among social origins? A causal decomposition analysis." 5th ISA Forum of Sociology. Rabat, Morocco, July 11, 2025.
+8. Sho Fujihara. 2025. "Another look at primary and secondary effects: application of causal decomposition method to IEO." International Sociological Association Research Committee on Social Stratification RC28 Conference. Università degli Studi di Milano, Milano, Italy. March 26, 2025.
+9. Entrich, Steve Richard, Soo-yong Byun, and Sho Fujihara. 2025. "The gendered impact of study abroad on monetary and non-monetary labor market outcomes in Japan and the United States." The CIES (Comparative and International Education Society) 2025 conference. Palmer House a Hilton Hotel. Chicago, USA. March 24, 2025.
+10. Sho Fujihara and Hiroshi Ishida. 2024. "Returns to College Education over the Life Course: College premium trajectories and their heterogeneity in Japan." International Sociological Association Research Committee on Social Stratification RC28 Conference. Brown University, Rhode Island, USA. August 6, 2024.
+11. Sho Fujihara and Keisuke Kawata. 2024. "An Interventional Approach to Educational Disparities at the Intersection: Gender, SES, and Region in Japan." International Sociological Association Research Committee on Social Stratification RC28 Conference. NYU Shanghai, Shanghai, China. May18, 2024.
+12. Sho Fujihara. 2024. "Who Became Non-High School Graduates? Reproduction of Highly Disadvantaged Social Status in Japan." Session on Unpacking the "Hard-to-Reach" Populations: New Approaches in Social Stratification Research in Contemporary Japan Chaired by Kenji Ishida. Association for Asian Studies 2024 Annual Conference, Seattle, Washington. March 17, 2024.
+13. Sho Fujihara. 2023. "How much does education reduce the disparity in occupational attainment among social origins? A causal decomposition analysis" the Educational Research Association of Singapore International Conference and the World Education Research Association Focal Meeting (ERAS-WERA) 2023, Singapore, Singapore, November 22, 2023.
+14. Sho Fujihara. 2023. "Identifying the Role of High School in Educational Inequality: A Causal Mediation Approach." 1st Annual Conference on the Research on East Asian Demography and Inequality, Tokyo, Japan, July 15, 2023.
+15. Sho Fujihara. 2023. "Roles of Education in Social Mobility: A Unified Approach." The XX ISA World Congress of Sociology, RC28 (Cutting-Edge Research in Social Stratification), Melbourne, Australia, June 26, 2023.
+16. Sho Fujihara. 2019. "The Causal Effects of Parental Absence on Children's Outcomes in Japan: Comparing Father's and Mother's Absence, Death and Divorce." International Sociological Association Research Committee on Social Stratification RC28 Conference. Princeton University, Princeton, USA, August 16, 2019.
+17. Sho Fujihara. 2019. "Single Parenthood and Children's Well-being in Japan: Comparing Father's and Mother's Absence by Death and Divorce." The 11th International Convention of Asia Scholars. Leiden University, Leiden, The Netherlands, 18 July 2019.
+18. Sho Fujihara and Hiroshi Ishida. 2019. "College Is Not the Great Equalizer in Japan: An Alternative Approach to the OED Triangle." International Sociological Association Research Committee on Social Stratification RC28 Conference. Goethe University Frankfurt, Frankfurt, Germany, March 22, 2019.
+19. Sho Fujihara and Hiroshi Ishida. 2018. "Class Origin, Education, and Class Destination: Analyzing the OEO Triangle in Japan." XIX ISA World Congress of Sociology, Social Stratification RC28 (Education and Social Inequality: Recent Methodological Developments), Toronto, Canada, July 21, 2018.
+20. Sho Fujihara. 2018. "An Ordered Logistic Regression Model for Educational Stratification: Trend Analysis of IEO in Japan." International Sociological Association Research Committee on Social Stratification RC28 Conference. Yonsei University, Seoul, South Korea, May 27, 2018.
+21. Fumiya, Uchikoshi and Sho Fujihara. 2018. "The Impact of Educational Assortative Mating on Income Inequality in Japan: A Life Course Approach." International Sociological Association Research Committee on Social Stratification RC28 Conference. Yonsei University, Seoul, South Korea, May 25, 2018.
+22. Fujihara, Sho, and Hiroshi Ishida. 2017. "Social Fluidity and Education in Japan: What Are the Impacts of Educational Expansion on Social Fluidity" International Sociological Association Research Committee on Social Stratification RC28 Conference. Columbia University, New York, USA, August 10, 2017.
+23. Fujihara, Sho, and Raymond Sin-Kwok Wong. 2017. "Constructing a Socioeconomic Index using Association Models." International Sociological Association Research Committee on Social Stratification RC28 Conference. Columbia University, New York, USA, August 8, 2017.
+24. Fujihara, Sho. 2017 "Occupational Status and Inequality in Japan." The Tenth International Convention of Asia Scholars. The Chiang Mai International Exhibition and Convention Centre (CMECC), Chiang Mai, Thailand, 21 July 2017.
+25. Fujihara, Sho and Hiroshi Ishida. 2017. Socio-Economic Returns to University Education in Japan: Estimating the Causal Effects of Vertical and Horizontal Stratification in Education. International Sociological Association Research Committee on Social Stratification RC28 Conference. The Institute of Sociology and Social Psychology (ISS), University of Cologne, Germany, March 31, 2017.
+26. Fujihara, Sho and Hiroshi Ishida. 2016. "Explaining Stability in Social Fluidity: Trends in OED Triangle in Japan." International Sociological Association Research Committee on Social Stratification RC28 Conference. May 26, 2016. National University of Singapore, Singapore, Singapore.
+27. Fujihara, Sho. 2015. "The Effects of Changes in Objective Social Status on Changes in Subjective Social Status in Japan." International Sociological Association Research Committee on Social Stratification RC28 Conference. May 30, 2015. Tilburg University. Tilburg, Netherlands.
+28. Fujihara, Sho and Hiroshi Ishida. 2014. "Education as a Positional Good and Inequality of Educational Opportunity: Trends in Access to Education in Postwar Japan." International Sociological Association Research Committee on Social Stratification RC28 Conference. May 10, 2014. Central European University. Budapest, Hungary.
+29. Fujihara, Sho. 2013. "An Empirical Test of the Relative Risk Aversion: Occupational and Educational Expectations of Japanese Students." The 108th Annual Meeting of the American Sociological Association. August 10, 2013. New York City, Hilton New York Midtown and Sheraton New York Hotel & Towers.
+30. Fujihara, Sho. 2013. "An Empirical Test of the Breen‐Goldthorpe Model of Educational Decision: Class Origins, Subjective Evaluations, and Educational Expectations of Japanese Students." International Sociological Association Research Committee on Social Stratification RC28 Conference. July 19, 2013. The University of Queensland, Emmanuel College. Brisbane, Australia.
+31. Kikkawa, Toru and Sho Fujihara. 2012. "Expanding Class Awareness in Japan: A Comparison with Stability in the U.S." The 107th Annual Meeting of the American Sociological Association. August 17, 2012. Denver, Colorado Convention Center & Hyatt Regency.
+32. Fujihara, Sho. 2011. "Educational Expansion and Its Effects on Social Mobility: A Comparative Study of the U.S. and Japan." The 106th Annual Meeting of the American Sociological Association. August 22, 2011. Las Vegas, Caesars Palace.
+33. Fujihara, S., Y. Tanabiki, Y. Sakaguchi, M. Hayashi, and T. Kikkawa. 2010. "Complexity of Work, Self-Directedness of Orientation, and Intellectual Flexibility in Older U.S. and Japanese Men." the 105th Annual Meeting of the American Sociological Association. Aug 17, 2010. Atlanta, Hilton Atlanta.
+34. Tanabiki, Y., Y. Sakaguchi, S. Fujihara, M. Hayashi, S. North and T. Kikkawa. 2009. "Specifying Relationship between Job Conditions and Psychological States: Comparative Analysis of Japanese and American Workers." the 104th Annual Meeting of the American Sociological Association. Aug 8-11, 2009. San Francisco, Hilton San Francisco.
+35. Fujihara, Sho. 2008. "The Similarity of Orientations between Spouses and its Change over 20 Years: Comparison between the U. S. and Japan." Anthropology of Japan in Japan Fall Meeting 2008. Nov 8, 2008. Osaka, Osaka University.
+
+## 学会報告（査読なし）
+
+1. 藤原翔．2026．「教育社会学的研究における職業分類：自動化時代の方法と推論」日本教育社会学会第78回大会，2026年9月3日（木）（於：法政大学）．
+2. 藤原翔・髙橋和子．2026．「職業コーディングの不確実性から推定へ：自然言語処理の確率分布と推算値を用いた方法」第81回数理社会学会大会，2026年8月29日（土）（於：京都大学）．
+3. 川田恵介・藤原翔．2026．「Educational Disparities Among Endogenous Social Groups: A Data-Driven Approach」第80回数理社会学会大会（萌芽的セッションⅢ），2026年3月8日（日）（於：日本大学文理学部）．
+4. 藤原翔．2026．「近隣による教育達成の格差：大学へのアクセシビリティに着目した因果分解分析」第80回数理社会学会大会（萌芽的セッションⅡ），2026年3月7日（土）（於：日本大学文理学部）．
+5. 石田賢示・谷口沙恵・藤原翔．2025．「SSJDA Panel 対象者のメールアドレス登録に関する分析」第79回数理社会学会大会，2025年8月28日（木）（於：関西学院大学）．
+6. 藤原翔．2024．「社会調査に基づく階層研究の課題：「社会階層と社会移動全国調査」2024年プレ調査の基礎分析」第97回日本社会学会大会，2024年11月9日（土）（於：京都産業大学）．
+7. 藤原翔．2024．「中学生と母親パネル調査からみる経済学部選択のジェンダー差」日本経済学会2024年度秋季大会，2024年10月19日（土）（於：福岡大学）．
+8. 藤原翔．2024．「Boudon の第 1 次効果と第 2 次効果の再検討：教育機会の不平等への因果分解分析の適用」日本教育社会学会第76回大会，2024年9月14日（土）（於：信州大学）．
+9. 石田賢示・谷口沙恵・藤原翔．2024．「SSJDA Panel の非回収パターンの分析」第77回数理社会学会大会，2024年8月31日（日）（於：東北大学）．
+10. 藤原翔・髙橋和子・奥村学・鈴木泰山・鈴木佑京・合木茂．2024．「Sentence-LUKEモデルを用いた 職業の自動コーディングシステムの構築 ─SSM職業小分類への適用─」第77回数理社会学会大会，2024年8月30日（土）（於：東北大学）．
+11. 藤原翔．2024．「メカニズムへの計量的アプローチ: 格差，因果，介入」第75 回関西社会学会大会 ，2024年5月25日（土）（於：大和大学）．
+12. 石田賢示・谷口沙恵・藤原翔．2024．「オンラインパネルモニタの構築と回答行動：SSJDA Panel2021-2023の基礎分析」第76回数理社会学会大会，2024年3月17日（日）（於：大阪大学）．
+13. 藤原翔．2023．「教育への介入によって出身階層による到達階層の差はどの程度減少するのか：因果分解分析によるアプローチ」第96回日本社会学会大会，2023年10月9日（月）（於：立正大学）．
+14. 藤原翔．2023．「社会移動における教育の役割：統合アプローチ」日本教育社会学会第75回大会，2023年9月9日（土）（於：弘前大学）．
+15. 石田賢示・谷口沙恵・藤原翔．2023．「確率抽出パネル調査におけるモード間の回答の差異：SSJDA Panel と JLPS の比較」第75回数理社会学会大会，2023年8月25日（金）（於：愛知大学）．
+16. 谷口沙恵・石田賢示・藤原翔．2023．「オンラインパネルモニタの構築とサンプルデータの基礎分布：SSJDA Panel2021-2022」第74回数理社会学会大会，2023年3月8日（水）（於：筑波大学）．
+17. 髙橋和子・藤原翔・奥村学・鈴木泰山・鈴木佑京・合木茂．2023．「AI によるアダプティブな調査デザイン：オンライン調査における職業データを例に」第74回数理社会学会大会，2023年3月7日（火）（於：筑波大学）．
+18. 藤原翔．2022．「何を測る対象とし，推定するか：社会階層研究への適用を例に」第95回日本社会学会大会，2022年11月13日（日）（於：追手門学院大学）．
+19. 藤原翔．2022．「教育達成に対する学校外教育継続の因果効果」日本教育社会学会第74回大会，2022年9月11日（日）（於：日本女子大学オンライン大会）．
+20. 石田賢示・谷口沙恵・藤原翔．2022．「SSJDA Panel 2022 新規抽出サンプルデータの基礎分析」第73回数理社会学会大会，2022年8月28日（日）（於：信州大学・オンライン開催）．
+21. 石田賢示・谷口沙恵・藤原翔．2022．「オンラインパネルモニタ構築による社会科学的研究の可能性：SSJDA Panel と調査会社のアンケートモニタの比較から」第72回数理社会学会大会，2022年3月13日（日）（於：東京大学・オンライン開催）．
+22. 藤原翔．2021．「階級と地位の影響：因果関係かセレクションか」第94回日本社会学会大会，2021年11月13日（土）（於：オンライン大会）．
+23. 藤原翔．2021．「高校階層構造と教育達成： 「中学生と母親パネル調査」 を用いた分析」日本教育社会学会第73回大会，2021年9月12日（日）（於：関西学院大学オンライン大会）．
+24. 大久保将貴・藤原翔．2020．「「女性は男性よりも生まれつき数学の能力が低い」と思われているのか？：Gendered Socialization of Gender Stereotype」第69回数理社会学会大会，2020年9月22日（火）（於：長崎大学・オンライン開催）．
+25. 藤原翔．2019．「ウェブを活用した社会調査の新展開」第92回大会日本社会学会大会，2019年10月5日（土）（於：東京女子大学・成蹊大学）．
+26. 藤原翔．2019．「日本社会における3世代学歴移動の分析」日本教育社会学会第71回大会，2019年9月12日(土)（於：大正大学）．
+27. 藤原翔．2019．「生徒とその母親に対する近隣の影響」『第68回数理社会学会大会研究報告要旨集』2019年8月30日（於：熊本県立大学）．萌芽的セッション
+28. 藤原翔．2019．「教育社会学における因果推論」第 67 回数理社会学会大会シンポジウム「社会学と因果推論」，2019年3月7日（木）（於：立命館大学）．
+29. 藤原翔．2018．「高校トラックは生徒の進路希望に影響を与えるのか：中学生と母親パネル調査（JLPS-J）データを用いた分析」第91回大会日本社会学会大会，2018年9月15日（土）（於：甲南大学）．
+30. 藤原翔・西丸良一・多喜弘文．2018．「高校進学と進路意識の変化：中学生と母親パネル調査（JLPS-J）.第2波調査の結果から」日本教育社会学会第70回大会，2018年9月3日(土)（於：佛教大学）．
+31. 藤原翔．2018．「子どもに対するひとり親家庭の因果効果の推定：未婚・死別・離別を区別した分析」『第66回数理社会学会大会研究報告要旨集』2018年8月30日（於：会津大学）．萌芽的セッション
+32. 藤原翔．2017．「男女別社会経済指標の構築とその適用：就業構造基本調査と2015年SSM調査データを用いて」第90回日本社会学会大会，2017年11月5日（日）（於：東京大学）．
+33. 藤原翔．2017．「現代日本社会における中卒学歴と社会経済的背景：「就業構造基本調査」個票データの分析」日本教育社会学会第69回大会，2017年10月21日(土)（於：一橋大学）．
+34. 藤原翔．2017．「公的統計データを用いた社会階層研究の可能性」『第64回数理社会学会大会研究報告要旨集』2017年9月18日（於：札幌学院大学）．ポスター報告.
+35. 藤原翔．2016．「中学生の進路希望の格差・不平等へのアプローチ：中学生と母親パネル調査（JLPS-J）データを用いた分析（1）」第89回日本社会学会大会，2016年10月8日（於：九州大学伊予キャンパス）．
+36. 藤原翔・石田賢示・多喜弘文．2016．「現代中学生の成績，進路，将来像：中学生と母親パネル調査（JLPS-J）第1波調査の結果から」『日本教育社会学会第68回大会発表要旨集録』日本教育社会学会第68回大会，2016年9月17日（於：名古屋大学）．
+37. 藤原翔．2016．「日本版社会経済的指標と.社会的地位指標の開発と適用」『第62回数理社会学会大会研究報告要旨集』2016年8月27日（於：金沢大学）．ポスター報告．
+38. 藤原翔．2015．「進路選択の社会経済的格差の説明：Breen and Goldthorpe Modelの検証」『日本教育社会学会第67回大会発表要旨集録』日本教育社会学会第67回大会，2015年9月9日（於：駒澤大学）．
+39. 藤原翔．2015．「教育意識の構造：ESSM2013データを用いた分析」『第60回数理社会学会大会研究報告要旨集』2015年8月29日（於：大阪経済大学）．ポスター報告．
+40. 藤原翔．2015．「階層帰属意識に対する本人と配偶者の地位の影響：JLPSデータを用いたパネルデータ分析」『第59回数理社会学会大会研究報告要旨集』2015年3月15日（於：久留米大学）．ポスター報告．
+41. 藤原翔．2014．「子どもへの教育期待に対する教育意識・社会意識の効果：東大社研パネル調査（JLPS）データの分析（2）」『第87回日本社会学会大会要旨集録』87回日本社会学会大会，2014年11月22日（於：神戸大学文理農学部キャンパス）．
+42. 石田浩・藤原翔・有田伸・大島真夫・石田賢示．2014．「学歴の職業的収益と教育機会：東大社研パネル調査（JLPS）と.SSMデータの分析」『日本教育社会学会第66回大会発表要旨集録』日本教育社会学会第66回大会，2014年9月13日（於：愛媛大学・松山大学）．
+43. 藤原翔．2014．「SSJデータアーカイブによる政治関連データ公開の現状と課題について」日本選挙学会2014年度総会・研究会，2014年5月17日（於：早稲田大学）．
+44. 石田浩・大島真夫・藤原翔．2013．「若年・壮年者の学校から職業への移行と教育意識：東大の社研パネル調査の分析結果から」『日本教育社会学会第65大会発表要旨集録』日本教育社会学会第65回大会，2013年9月21日（於：埼玉大学）．
+45. 藤原翔．2013．「高校生の進路選択のメカニズム———学歴に対する評価を用いた計量分析」『第64回関西社会学会大会報告要旨集2012』第64回関西社会学会大会，2013年5月19日（於：大谷大学）．
+46. 藤原翔．2013．「現代高校生の教育期待と職業期待」『第55回数理社会学会大会研究報告要旨集』2012年3月19日（於：東北学院大学）．ポスター報告．
+47. 藤原翔・石田浩．2012．「大学選択の社会経済的格差とその変容」『日本教育社会学会第64大会発表要旨集録』日本教育社会学会第64回大会，2012年10月27日（於：同志社大学）．
+48. 藤原翔．2012．「学歴別にみた世代間移動———日本における構成効果（compositional effect）の検討」『第63回関西社会学会大会報告要旨集2012』第63回関西社会学会大会，2012年5月27日（於：皇學館大学）．
+49. 谷岡謙・藤原翔・伊藤理史．「一般化順序ロジットモデルを用いた意識・行動変数の分析」『第53回数理社会学会大会研究報告要旨集』2012年3月14日（於：鹿児島大学）．ポスター報告．
+50. 藤原翔．2011．「高校選択と高等教育選択に対する家族背景の影響」『日本教育社会学会第63回大会発表要旨集録』日本教育社会学会第63回大会，2011年9月23日（於：お茶の水女子大学）．
+51. 藤原翔，2011，「きょうだい構成と地位達成———マルチレベルモデルによる出生順位効果の分析」『第62回関西社会学会大会報告要旨集2011』第63回関西社会学会大会，2011年5月29日（於：甲南女子大学）．
+52. 阪口祐介・藤原翔，2010，「中高年期における意識変容の日米比較分析」第61回関西社会学会大会，2010年5月29日（於：名古屋市立大学）．
+53. 藤原翔，2009，「教育達成の階級間格差の趨勢」『第48回数理社会学会大会研究報告要旨集』，2009年9月19日（於：北星学園大学）．
+54. 藤原翔，2009，「社会階層と高校選択」『日本教育社会学会第61回大会発表要旨集録』，日本教育社会学会第61回大会，2009年9月12日，（於：早稲田大学）．
+55. 中村高康・西田亜希子・藤原翔・岩田考・片山悠樹，2008，「進路多様校からの進学———高校3年間の進路変容過程に関する経時的研究（3）」『日本教育社会学会第60回大会発表要旨集録』，日本教育社会学会第60回大会，2008年9月19日，（於：上越教育大学）．
+56. 藤原翔，2008，「Breen & Goldthorpeの相対的リスク回避仮説の検証———父親の子どもに対する職業・教育期待をもとにした計量分析」『第46回数理社会学会大会研究報告要旨集』2008年8月30日（於：芝浦工業大学）．
+57. 藤原翔，2008，「現代高校生とその母親の教育アスピレーション———Interdependence Modelを用いた親子同時分析」『第45回数理社会学会大会研究報告要旨集』2008年3月17日（於：成蹊大学）．
+58. 中村高康・岩田考・藤原翔・越智政治・西田亜希子・片山悠樹・金子嘉秀・鵜飼洋一郎，2007， 「進路の一貫性と非一貫性———高校3年間の進路変容過程に関する継時的研究（2）」，日本教育社会学会第59回大会，2007年9月22日，（於：茨城大学）．
+59. 中村高康・片山悠樹・西田亜希子・藤原翔・越智政治・保田直美，2005， 「学校社会学におけるMixed Methods Researchの可能性———高校生の進路に関する3年間継続調査への適用」，日本教育社会学会第57回大会，2005年9月18日，（於：放送大学）．
+
+## Invited Talks and Other Presentations
+
+1. Fujihara, Sho. 2026. "An Occupational Data Pipeline that Preserves Uncertainty: From Free-Text to Statistical Inference." Invited talk, Methods Hub Seminar Series & SRT on AI, Society and Social Dynamics, The University of Hong Kong, Hong Kong, July 23, 2026 (joint work with Kazuko Takahashi).
+2. 藤原翔．2026．「職業の測り方：自動化、尺度化、そして推定———不確実性を保持する職業データのパイプライン」中央大学 社会経済ミクロデータ研究会（招待講演），2026年6月4日（木）（於：中央大学多摩キャンパス）．
+3. 藤原翔．2025．「格差・不平等に挑む社会階層研究：記述，介入，メカニズム」第98回日本社会学会大会 シンポジウム，2025年11月16日（日）（於：一橋大学）．
+4. Fujihara, Sho. 2025. "Understanding Mechanisms and Reducing Social Inequality." HKU Research Hub of Population Studies Seminar Series. The University of Hong Kong, Hong Kong, China, March 18, 2025.
+5. 藤原翔．2025．「中学生と母親パネル調査による格差・不平等研究の可能性」東大社研パネルシンポジウム2025『第2部：シンポジウム「パネル調査の未来：東大社研のプロジェクトを通して考える」』2025年2月28日．
+6. 藤原翔．2019「公的統計データを用いた 社会学的研究の可能性とその教育」共同研究集会「官民オープンデータ利活用の動向及び人材育成の取組」（2019-ISMCRP-5004）2019年11月15日（金）（於：統計数理研究所 ）．
+7. Fujihara, Sho. 2019. Explaining Class Differentials in College Enrollment in Japan: An Empirical Test of Relative Risk Aversion Hypothesis. International Symposium on Inequality of Educational Opportunity, Keio University, Tokyo, Japan, 1 June 2019.
+8. Fujihara, Sho. 2018. "An Ordered Logistic Regression Model for Comparative Analysis." The First Conference of the Comparative Social Research Network (CSRN) Ito Campus, Kyushu University, Fukuoka, Japan, 28 January 2018.
+9. 藤原翔．2016．「パネル調査で何が出来るか？親子パネル調査への期待」東京大学社会科学研究所・ベネッセ教育総合研究所共同研究報告会「子どもの生活と学び」研究プロジェクト小・中・高校生の自立と親子パネル調査の可能性～「子どもの生活と学びに関する親子調査2015（Wave1）」から～2016年7月17日（東京大学福武ホール）．
+10. 藤原翔．2014．「SSJDAおよびICPSRの概要と利用について」神戸大学 ミクロデータ アーカイブ（KUMA）セミナー，神戸大学大学院経済学研究科中会議室，7月24日（木）：17：00-18：30．
+11. Fujihara, Sho, 2010, "Educational Expansion and Its Effects on Social Mobility: A Comparative Study of the U.S. and Japan," Inequality and Life Course Workshop Fall 2010, Dec 3, 2010, Yale University.
+12. Fujihara, Sho. 2008. "The Similarity of Orientations between Spouses and its Change over 20 Years: Comparison between the U. S. and Japan." Department of Sociology and Center for Japanese Studies Joint Colloquium Spring 2008. Feb 26, 2008. University of Hawaii at Manoa.
