@@ -42,6 +42,8 @@ Rを用いた連関モデルの分析方法を解説。サポートページで�
 
 ### English Journals
 
+1. Uchikoshi, Fumiya and Sho Fujihara. Forthcoming. "The Role of Women’s Employment and Educational Assortative Mating for Earnings Inequality in Japan, 1982–2017: The Importance of Gendered Life Course Patterns." *European Sociological Review*. [DOI: 10.1093/esr/jcag034](https://doi.org/10.1093/esr/jcag034) (Accepted September 2026)
+
 1. Entrich, Steve R., Sho Fujihara, and David Chiavacci. 2026. "New life paths among younger Japanese adults? International student mobility and gender differences in labour market outcomes and life satisfaction." *Social Science Japan Journal* 29(2):jyag022. [DOI: 10.1093/ssjj/jyag022](https://doi.org/10.1093/ssjj/jyag022) <span class="__dimensions_badge_embed__" data-doi="10.1093/ssjj/jyag022" data-style="small_circle"></span>
 
 2. Fujihara, Sho. 2024. "Identifying the Role of High School in Educational Inequality: A Causal Mediation Approach." *Social Science Research* 124C:103077. [DOI: 10.1016/j.ssresearch.2024.103077](https://doi.org/10.1016/j.ssresearch.2024.103077) <span class="__dimensions_badge_embed__" data-doi="10.1016/j.ssresearch.2024.103077" data-style="small_circle"></span>
