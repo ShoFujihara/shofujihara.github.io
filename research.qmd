@@ -42,7 +42,9 @@ Rを用いた連関モデルの分析方法を解説。サポートページで�
 
 ### English Journals
 
-1. Fujihara, Sho. 2024. "Identifying the Role of High School in Educational Inequality: A Causal Mediation Approach." *Social Science Research* 124C:103077. [DOI: 10.1016/j.ssresearch.2024.103077](https://doi.org/10.1016/j.ssresearch.2024.103077) <span class="__dimensions_badge_embed__" data-doi="10.1016/j.ssresearch.2024.103077" data-style="small_circle"></span>
+1. Entrich, Steve R., Sho Fujihara, and David Chiavacci. 2026. "New life paths among younger Japanese adults? International student mobility and gender differences in labour market outcomes and life satisfaction." *Social Science Japan Journal* 29(2):jyag022. [DOI: 10.1093/ssjj/jyag022](https://doi.org/10.1093/ssjj/jyag022) <span class="__dimensions_badge_embed__" data-doi="10.1093/ssjj/jyag022" data-style="small_circle"></span>
+
+2. Fujihara, Sho. 2024. "Identifying the Role of High School in Educational Inequality: A Causal Mediation Approach." *Social Science Research* 124C:103077. [DOI: 10.1016/j.ssresearch.2024.103077](https://doi.org/10.1016/j.ssresearch.2024.103077) <span class="__dimensions_badge_embed__" data-doi="10.1016/j.ssresearch.2024.103077" data-style="small_circle"></span>
 
 2. Fujihara, Sho and Hiroshi Ishida. 2024. "College Is Not the Great Equalizer in Japan." *Socius: Sociological Research for a Dynamic World* 10. [DOI: 10.1177/23780231231225558](https://doi.org/10.1177/23780231231225558) <span class="__dimensions_badge_embed__" data-doi="10.1177/23780231231225558" data-style="small_circle"></span>
 
@@ -80,7 +82,9 @@ Rを用いた連関モデルの分析方法を解説。サポートページで�
 
 ### English
 
-1. Takikawa, Hiroki and Sho Fujihara. 2024. "Methodological Contributions of Computational Social Science to Sociology." Pp. 23–51 in *Sociological Foundations of Computational Social Science*, Translational Systems Sciences, edited by Y. Sato and H. Takikawa. Singapore: Springer Nature Singapore. [DOI: 10.1007/978-981-99-9432-8](https://doi.org/10.1007/978-981-99-9432-8)
+1. Entrich, Steve R., David Chiavacci, and Sho Fujihara. 2027. "The Impact of International Student Mobility on Life Trajectories: A Conceptual and Empirical Research Overview of Japan as a Comparative Case of Internationalization." Chapter 12 in *Internationalization of Education in Japan: Policies, Practices, and Impact*, edited by S. R. Entrich and M. Hennings. London: Routledge. (Released September 2026)
+
+2. Takikawa, Hiroki and Sho Fujihara. 2024. "Methodological Contributions of Computational Social Science to Sociology." Pp. 23–51 in *Sociological Foundations of Computational Social Science*, Translational Systems Sciences, edited by Y. Sato and H. Takikawa. Singapore: Springer Nature Singapore. [DOI: 10.1007/978-981-99-9432-8](https://doi.org/10.1007/978-981-99-9432-8)
 
 ### 日本語
 
@@ -122,13 +126,15 @@ Rを用いた連関モデルの分析方法を解説。サポートページで�
 
 ## 解説
 
-1. 藤原翔，2022，編集委員，「維持される進学の不平等」「デジタルサーベイ」担当，数理社会学会数理社会学事典刊行委員会編『数理社会学事典』丸善出版．
+1. 藤原翔，2026，「大学進学は高校のおかげ？」（連載「探究する教育社会学」第3回）『月刊高校教育』2026年6月号．
 
-2. 藤原翔，2018，「構造方程式モデリング」「学歴社会における選抜」担当，日本教育社会学会編『教育社会学事典』丸善出版．
+2. 藤原翔，2022，編集委員，「維持される進学の不平等」「デジタルサーベイ」担当，数理社会学会数理社会学事典刊行委員会編『数理社会学事典』丸善出版．
 
-3. 藤原翔，2015，「付録1 計量分析の応用的手法」数理社会学会監修，筒井淳也・神林博史・長松奈美江・渡邉大輔・藤原翔編『計量社会学入門：社会をデータでよむ』世界思想社，222-239．
+3. 藤原翔，2018，「構造方程式モデリング」「学歴社会における選抜」担当，日本教育社会学会編『教育社会学事典』丸善出版．
 
-4. 藤原翔，2012，「LZ命題」「FJH命題」「絶対移動／相対移動」「ユニディフ・モデル」「クロス表」「対数乗法モデル」「対数線形モデル」担当，見田宗介編集顧問，大澤真幸・吉見俊哉・鷲田清一編『現代社会学事典』弘文堂．
+4. 藤原翔，2015，「付録1 計量分析の応用的手法」数理社会学会監修，筒井淳也・神林博史・長松奈美江・渡邉大輔・藤原翔編『計量社会学入門：社会をデータでよむ』世界思想社，222-239．
+
+5. 藤原翔，2012，「LZ命題」「FJH命題」「絶対移動／相対移動」「ユニディフ・モデル」「クロス表」「対数乗法モデル」「対数線形モデル」担当，見田宗介編集顧問，大澤真幸・吉見俊哉・鷲田清一編『現代社会学事典』弘文堂．
 
 ## 雑誌論文（日本語雑誌，査読なし）
 

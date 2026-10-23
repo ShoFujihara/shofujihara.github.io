@@ -107,15 +107,17 @@ Conference presentations and invited talks, listed from the most recent. Peer-re
 
 ## Invited Talks and Other Presentations
 
-1. Fujihara, Sho. 2026. "An Occupational Data Pipeline that Preserves Uncertainty: From Free-Text to Statistical Inference." Invited talk, Methods Hub Seminar Series & SRT on AI, Society and Social Dynamics, The University of Hong Kong, Hong Kong, July 23, 2026 (joint work with Kazuko Takahashi).
-2. 藤原翔．2026．「職業の測り方：自動化、尺度化、そして推定———不確実性を保持する職業データのパイプライン」中央大学 社会経済ミクロデータ研究会（招待講演），2026年6月4日（木）（於：中央大学多摩キャンパス）．
-3. 藤原翔．2025．「格差・不平等に挑む社会階層研究：記述，介入，メカニズム」第98回日本社会学会大会 シンポジウム，2025年11月16日（日）（於：一橋大学）．
-4. Fujihara, Sho. 2025. "Understanding Mechanisms and Reducing Social Inequality." HKU Research Hub of Population Studies Seminar Series. The University of Hong Kong, Hong Kong, China, March 18, 2025.
-5. 藤原翔．2025．「中学生と母親パネル調査による格差・不平等研究の可能性」東大社研パネルシンポジウム2025『第2部：シンポジウム「パネル調査の未来：東大社研のプロジェクトを通して考える」』2025年2月28日．
-6. 藤原翔．2019「公的統計データを用いた 社会学的研究の可能性とその教育」共同研究集会「官民オープンデータ利活用の動向及び人材育成の取組」（2019-ISMCRP-5004）2019年11月15日（金）（於：統計数理研究所 ）．
-7. Fujihara, Sho. 2019. Explaining Class Differentials in College Enrollment in Japan: An Empirical Test of Relative Risk Aversion Hypothesis. International Symposium on Inequality of Educational Opportunity, Keio University, Tokyo, Japan, 1 June 2019.
-8. Fujihara, Sho. 2018. "An Ordered Logistic Regression Model for Comparative Analysis." The First Conference of the Comparative Social Research Network (CSRN) Ito Campus, Kyushu University, Fukuoka, Japan, 28 January 2018.
-9. 藤原翔．2016．「パネル調査で何が出来るか？親子パネル調査への期待」東京大学社会科学研究所・ベネッセ教育総合研究所共同研究報告会「子どもの生活と学び」研究プロジェクト小・中・高校生の自立と親子パネル調査の可能性～「子どもの生活と学びに関する親子調査2015（Wave1）」から～2016年7月17日（東京大学福武ホール）．
-10. 藤原翔．2014．「SSJDAおよびICPSRの概要と利用について」神戸大学 ミクロデータ アーカイブ（KUMA）セミナー，神戸大学大学院経済学研究科中会議室，7月24日（木）：17：00-18：30．
-11. Fujihara, Sho, 2010, "Educational Expansion and Its Effects on Social Mobility: A Comparative Study of the U.S. and Japan," Inequality and Life Course Workshop Fall 2010, Dec 3, 2010, Yale University.
-12. Fujihara, Sho. 2008. "The Similarity of Orientations between Spouses and its Change over 20 Years: Comparison between the U. S. and Japan." Department of Sociology and Center for Japanese Studies Joint Colloquium Spring 2008. Feb 26, 2008. University of Hawaii at Manoa.
+1. Fujihara, Sho, and Hiroshi Ishida. 2026. "Heterogeneous Income Returns to College over the Life Course in Japan." 2026 Annual Meeting of Life Course Transitions in East Asia: Education, Employment, Family Formation, and Health, Session 2 "Education & Skills." Sungkyunkwan University, Seoul, South Korea, October 10, 2026.
+2. Fujihara, Sho. 2026. "An Occupational Data Pipeline that Preserves Uncertainty: From Free-Text to Statistical Inference." Invited talk, Methods Hub Seminar Series & SRT on AI, Society and Social Dynamics, The University of Hong Kong, Hong Kong, July 23, 2026 (joint work with Kazuko Takahashi).
+3. 藤原翔．2026．「職業の測り方：自動化、尺度化、そして推定———不確実性を保持する職業データのパイプライン」中央大学 社会経済ミクロデータ研究会（招待講演），2026年6月4日（木）（於：中央大学多摩キャンパス）．
+4. 藤原翔．2025．「格差・不平等に挑む社会階層研究：記述，介入，メカニズム」第98回日本社会学会大会 シンポジウム，2025年11月16日（日）（於：一橋大学）．
+5. Entrich, Steve R., Sho Fujihara, and David Chiavacci. 2025. "New paths towards career and happiness among younger Japanese adults? The gendered impact of international student mobility on labour market outcomes and life satisfaction." Workshop "Crossing Borders, Shaping Careers: Internationalisation of Education and Labour in Contemporary Japan," German Institute for Japanese Studies (DIJ Tokyo), Tokyo, Japan, September 26, 2025.
+6. Fujihara, Sho. 2025. "Understanding Mechanisms and Reducing Social Inequality." HKU Research Hub of Population Studies Seminar Series. The University of Hong Kong, Hong Kong, China, March 18, 2025.
+7. 藤原翔．2025．「中学生と母親パネル調査による格差・不平等研究の可能性」東大社研パネルシンポジウム2025『第2部：シンポジウム「パネル調査の未来：東大社研のプロジェクトを通して考える」』2025年2月28日．
+8. 藤原翔．2019「公的統計データを用いた 社会学的研究の可能性とその教育」共同研究集会「官民オープンデータ利活用の動向及び人材育成の取組」（2019-ISMCRP-5004）2019年11月15日（金）（於：統計数理研究所 ）．
+9. Fujihara, Sho. 2019. Explaining Class Differentials in College Enrollment in Japan: An Empirical Test of Relative Risk Aversion Hypothesis. International Symposium on Inequality of Educational Opportunity, Keio University, Tokyo, Japan, 1 June 2019.
+10. Fujihara, Sho. 2018. "An Ordered Logistic Regression Model for Comparative Analysis." The First Conference of the Comparative Social Research Network (CSRN) Ito Campus, Kyushu University, Fukuoka, Japan, 28 January 2018.
+11. 藤原翔．2016．「パネル調査で何が出来るか？親子パネル調査への期待」東京大学社会科学研究所・ベネッセ教育総合研究所共同研究報告会「子どもの生活と学び」研究プロジェクト小・中・高校生の自立と親子パネル調査の可能性～「子どもの生活と学びに関する親子調査2015（Wave1）」から～2016年7月17日（東京大学福武ホール）．
+12. 藤原翔．2014．「SSJDAおよびICPSRの概要と利用について」神戸大学 ミクロデータ アーカイブ（KUMA）セミナー，神戸大学大学院経済学研究科中会議室，7月24日（木）：17：00-18：30．
+13. Fujihara, Sho, 2010, "Educational Expansion and Its Effects on Social Mobility: A Comparative Study of the U.S. and Japan," Inequality and Life Course Workshop Fall 2010, Dec 3, 2010, Yale University.
+14. Fujihara, Sho. 2008. "The Similarity of Orientations between Spouses and its Change over 20 Years: Comparison between the U. S. and Japan." Department of Sociology and Center for Japanese Studies Joint Colloquium Spring 2008. Feb 26, 2008. University of Hawaii at Manoa.
